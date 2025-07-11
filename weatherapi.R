@@ -6,7 +6,7 @@ library(purrr)
 library(tibble)
 
 # Replace this with your real API key
-api_key <- "0b5c4e465c8c4ed5b93115130251007"
+
 
 # Filter out schools with NA coordinates
 geocoded_valid <- geocoded %>%
@@ -72,4 +72,4 @@ all_forecasts <- pmap_dfr(
 print(head(all_forecasts))
 
 # Optional: save to CSV
-write.csv(all_forecasts, "rodriguez_schools_24hr_forecast.csv", row.names = FALSE)
+write.csv(all_forecasts, "rodriguez_schools_July122025.csv", row.names = FALSE)

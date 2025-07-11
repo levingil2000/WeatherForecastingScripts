@@ -1,0 +1,865 @@
+"school","latitude","longitude","time","temp_c","condition","wind_kph","humidity","will_it_rain","chance_of_rain","precip_mm"
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Amityville Elementary School",14.7456519,121.1294138,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Burgos Elementary School Unit I",14.7184883,121.1406047,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Catmon Elementary School",14.7421582,121.1680297,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Geronimo Elementary School",14.7326831,121.1495245,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 00:00",26.6,"Patchy rain nearby",12.2,87,1,100,0.06
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 01:00",26.5,"Patchy rain nearby",11.9,87,1,85,0.02
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 02:00",26.4,"Patchy rain nearby",11.9,87,1,82,0.05
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 03:00",26.3,"Patchy rain nearby",10.8,87,1,77,0.03
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 04:00",26.3,"Patchy rain nearby",10.4,86,0,68,0.01
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 05:00",26.2,"Patchy rain nearby",9.7,87,0,69,0.03
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 06:00",26.3,"Patchy rain nearby",8.3,87,1,100,0.05
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 07:00",27,"Patchy rain nearby",8.6,84,1,77,0.01
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 08:00",27.7,"Patchy rain nearby",10.4,80,1,100,0.2
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 09:00",28.4,"Patchy rain nearby",11.9,77,1,85,0.02
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 10:00",29.1,"Patchy rain nearby",10.1,73,0,70,0.02
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 11:00",30,"Patchy rain nearby",11.5,69,1,100,0.09
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 12:00",30.9,"Patchy rain nearby",19.1,68,0,64,0.04
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 13:00",31,"Patchy rain nearby",24.1,69,0,64,0.04
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 14:00",30.7,"Patchy rain nearby",24.8,70,1,100,0.15
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 15:00",30.1,"Patchy rain nearby",24.5,72,1,100,0.4
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 16:00",29.4,"Patchy rain nearby",23.4,75,1,100,0.37
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 17:00",29,"Patchy rain nearby",20.9,77,1,100,0.07
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 18:00",28.2,"Patchy rain nearby",18,80,1,88,0.02
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 19:00",28.3,"Light rain",15.5,89,0,0,0
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 20:00",27,"Partly Cloudy ",14,85,0,0,0
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 21:00",26.9,"Patchy rain nearby",11.2,85,1,85,0.01
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 22:00",27,"Patchy rain nearby",10.4,85,0,61,0.05
+"Kinabuan Elementary School",14.7590281,121.3196203,"2025-07-11 23:00",26.9,"Patchy rain nearby",10.4,85,1,100,0.1
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Lukutan Malaki Elementary School",14.7830036,121.1681017,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Macaingalan Elementary School",14.8110358,121.2196679,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Manggahan Elementary School",14.7237134,121.1430323,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Mascap Elementary School",14.7626207,121.1831991,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Puray Elementary School",14.7718266,121.2053732,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Rodriguez Heights Elementary School",14.746545,121.1235608,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Isidro Elementary School",14.7616824,121.1582296,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Jose Elementary School",14.7300568,121.13477,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Rafael Elementary School",14.7321213,121.1585205,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Southville 8 Elementary School",14.7601205,121.1505675,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Southville 8‑C Elementary School",14.7560762,121.1451558,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Tagumpay Elementary School",14.7457126,121.1314735,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Wawa Elementary School",14.729144,121.186953,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Burgos National High School",14.7147125,121.1385985,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"General Licerio Geronimo National High School",14.731947,121.1491519,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Gulod National High School",14.7444976,121.1551122,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Kasiglahan Village National High School",14.7492647,121.1415463,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Manggahan National High School",14.7233969,121.143161,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Mascap National High School",14.7623644,121.183592,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Mascap National High School Puray Annex",14.7757433,121.2078777,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Montalban Heights National High School",14.7476387,121.1243574,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Isidro National High School",14.7610434,121.1530402,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Isidro Senior High School",14.7487787,121.1582518,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Jose National High School",14.7288251,121.1347038,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"San Jose Litex Senior High School",14.7355085,121.1299187,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Southville 8‑C National High School",14.7563668,121.1448007,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Tagumpay National High School",14.7453813,121.1312574,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 00:00",25.6,"Light rain shower",8.6,93,1,100,0.16
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 01:00",25.6,"Patchy rain nearby",8.6,93,1,100,0.15
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 02:00",25.3,"Light rain shower",9,93,1,100,0.16
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 03:00",25.3,"Light rain shower",8.6,93,1,100,0.24
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 04:00",25.1,"Light drizzle",9.7,92,1,100,0.24
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 05:00",25,"Light rain shower",9.4,93,1,100,0.25
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 06:00",25.1,"Light drizzle",8.6,92,1,100,0.26
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 07:00",26.3,"Light rain shower",10.4,90,1,100,0.23
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 08:00",27.2,"Light drizzle",12.6,87,1,100,0.42
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 09:00",27.8,"Light rain shower",14.4,84,1,100,0.77
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 10:00",28.2,"Patchy rain nearby",14.4,82,1,100,0.14
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 11:00",28.6,"Light rain shower",14.4,80,1,100,0.68
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 12:00",29.2,"Patchy rain nearby",15.8,78,1,100,0.1
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 13:00",29.9,"Patchy rain nearby",16.2,73,1,100,0.06
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 14:00",30,"Patchy rain nearby",15.1,72,1,85,0.04
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 15:00",29.8,"Patchy rain nearby",14.8,73,1,100,0.05
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 16:00",29,"Patchy rain nearby",14,76,1,100,0.22
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 17:00",28.4,"Patchy rain nearby",12.2,79,1,100,0.13
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 18:00",27.3,"Patchy rain nearby",9.4,85,0,63,0.01
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 19:00",28.3,"Light rain",6.5,89,0,0,0
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 20:00",25.9,"Patchy rain nearby",5,90,1,79,0.01
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 21:00",26,"Patchy rain nearby",4,90,1,77,0.02
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 22:00",26,"Patchy rain nearby",4.3,90,1,100,0.06
+"Wawa National High School",14.7308221,121.1851935,"2025-07-11 23:00",25.6,"Light rain",4.3,91,1,100,0.82

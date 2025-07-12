@@ -1,7 +1,7 @@
 library(lubridate)
 ##TomorrowIO weather forecast
 # Replace with your actual Tomorrow.io API key
-api_key <- "PyTpxNDg8Syy5KnmSblADQKeoIH7OwZl"
+
 
 # Tomorrow.io forecast API endpoint
 base_url <- "https://api.tomorrow.io/v4/timelines"

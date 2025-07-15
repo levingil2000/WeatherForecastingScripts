@@ -1,0 +1,865 @@
+"","startTime","cloudCover","humidity","precipitationIntensity","precipitationType","temperature","weatherCode","windDirection","windSpeed","location_id","latitude","longitude"
+"1","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",325,2.1,"Amityville Elementary School",14.7456519,121.1294138
+"2","2025-07-16T01:00:00Z",100,81,0,1,28.9,"Cloudy",316,2.6,"Amityville Elementary School",14.7456519,121.1294138
+"3","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",272,2.4,"Amityville Elementary School",14.7456519,121.1294138
+"4","2025-07-16T03:00:00Z",100,72,0,1,30.3,"Cloudy",275,2.4,"Amityville Elementary School",14.7456519,121.1294138
+"5","2025-07-16T04:00:00Z",100,62,0,1,31.8,"Cloudy",277,2.8,"Amityville Elementary School",14.7456519,121.1294138
+"6","2025-07-16T05:00:00Z",100,64,0,1,31.9,"Cloudy",266,3.7,"Amityville Elementary School",14.7456519,121.1294138
+"7","2025-07-16T06:00:00Z",53,75,0,1,30.4,"Partly Cloudy",265,4.1,"Amityville Elementary School",14.7456519,121.1294138
+"8","2025-07-16T07:00:00Z",100,70,0,1,29.6,"Cloudy",270,3.7,"Amityville Elementary School",14.7456519,121.1294138
+"9","2025-07-16T08:00:00Z",100,70,0,1,29.6,"Cloudy",250,3.2,"Amityville Elementary School",14.7456519,121.1294138
+"10","2025-07-16T09:00:00Z",100,76,0,1,28.8,"Cloudy",276,1.9,"Amityville Elementary School",14.7456519,121.1294138
+"11","2025-07-16T10:00:00Z",100,93,0.48,1,25.9,"Drizzle",68,2.2,"Amityville Elementary School",14.7456519,121.1294138
+"12","2025-07-16T11:00:00Z",100,93,0,1,24.3,"Cloudy",1,5.3,"Amityville Elementary School",14.7456519,121.1294138
+"13","2025-07-16T12:00:00Z",100,92,1.16,1,24.3,"Light Rain",6,4.8,"Amityville Elementary School",14.7456519,121.1294138
+"14","2025-07-16T13:00:00Z",100,94,0,1,24.1,"Cloudy",320,1.3,"Amityville Elementary School",14.7456519,121.1294138
+"15","2025-07-16T14:00:00Z",100,94,0,1,24.2,"Cloudy",329,1.1,"Amityville Elementary School",14.7456519,121.1294138
+"16","2025-07-16T15:00:00Z",100,94,0.04,1,24.3,"Cloudy",6,0.9,"Amityville Elementary School",14.7456519,121.1294138
+"17","2025-07-16T16:00:00Z",100,94,0.02,1,24.3,"Cloudy",21,1.6,"Amityville Elementary School",14.7456519,121.1294138
+"18","2025-07-16T17:00:00Z",100,94,0,0,24.2,"Cloudy",9,1.3,"Amityville Elementary School",14.7456519,121.1294138
+"19","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",1,0.8,"Amityville Elementary School",14.7456519,121.1294138
+"20","2025-07-16T19:00:00Z",100,91,0,0,24.6,"Cloudy",354,0.9,"Amityville Elementary School",14.7456519,121.1294138
+"21","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",353,0.8,"Amityville Elementary School",14.7456519,121.1294138
+"22","2025-07-16T21:00:00Z",100,94,0,0,24.1,"Cloudy",7,1.3,"Amityville Elementary School",14.7456519,121.1294138
+"23","2025-07-16T22:00:00Z",100,93,0.01,0,24.5,"Cloudy",344,1.2,"Amityville Elementary School",14.7456519,121.1294138
+"24","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",336,0.6,"Amityville Elementary School",14.7456519,121.1294138
+"25","2025-07-16T00:00:00Z",100,88,0,1,27.4,"Cloudy",331,2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"26","2025-07-16T01:00:00Z",100,83,0.01,1,28.1,"Cloudy",315,2.9,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"27","2025-07-16T02:00:00Z",100,75,0,1,28.8,"Cloudy",261,3.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"28","2025-07-16T03:00:00Z",100,69,0,1,30.1,"Cloudy",284,3.4,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"29","2025-07-16T04:00:00Z",100,62,0,1,31.2,"Cloudy",279,3.2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"30","2025-07-16T05:00:00Z",100,66,0,1,31.3,"Cloudy",261,4.4,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"31","2025-07-16T06:00:00Z",100,78,0,1,29.3,"Cloudy",271,4.2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"32","2025-07-16T07:00:00Z",100,72,0,1,28.8,"Cloudy",281,4.3,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"33","2025-07-16T08:00:00Z",100,73,0,1,28.6,"Cloudy",252,2.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"34","2025-07-16T09:00:00Z",100,82,0,1,27.5,"Cloudy",216,2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"35","2025-07-16T10:00:00Z",100,94,1.36,1,25.4,"Light Rain",80,2.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"36","2025-07-16T11:00:00Z",100,93,0.01,1,25.3,"Cloudy",357,4.2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"37","2025-07-16T12:00:00Z",100,92,0.09,1,24.3,"Cloudy",15,1.9,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"38","2025-07-16T13:00:00Z",100,94,0.02,1,24.1,"Cloudy",316,0.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"39","2025-07-16T14:00:00Z",100,88,0,1,24.7,"Cloudy",348,0.3,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"40","2025-07-16T15:00:00Z",100,89,0.1,1,24.6,"Cloudy",109,0.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"41","2025-07-16T16:00:00Z",100,94,0.02,1,24.1,"Cloudy",82,1.2,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"42","2025-07-16T17:00:00Z",100,91,0,0,24.3,"Cloudy",121,1.1,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"43","2025-07-16T18:00:00Z",100,89,0,0,24.5,"Cloudy",140,0.9,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"44","2025-07-16T19:00:00Z",100,88,0,0,24.6,"Cloudy",136,0.8,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"45","2025-07-16T20:00:00Z",100,89,0,0,24.6,"Cloudy",149,0.7,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"46","2025-07-16T21:00:00Z",100,89,0,0,24.5,"Cloudy",116,0.4,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"47","2025-07-16T22:00:00Z",100,90,0.02,1,24.5,"Cloudy",125,0.3,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"48","2025-07-16T23:00:00Z",100,90,0.02,1,25.3,"Cloudy",339,0.6,"Burgos Elementary School Unit I",14.7184883,121.1406047
+"49","2025-07-16T00:00:00Z",100,88,0,1,27.4,"Cloudy",324,2.2,"Catmon Elementary School",14.7421582,121.1680297
+"50","2025-07-16T01:00:00Z",100,86,0,1,28.1,"Cloudy",314,2.9,"Catmon Elementary School",14.7421582,121.1680297
+"51","2025-07-16T02:00:00Z",100,80,0,1,28.8,"Cloudy",294,2.6,"Catmon Elementary School",14.7421582,121.1680297
+"52","2025-07-16T03:00:00Z",100,81,0.01,1,29.3,"Cloudy",294,0.7,"Catmon Elementary School",14.7421582,121.1680297
+"53","2025-07-16T04:00:00Z",100,67,0,1,30.8,"Cloudy",289,2.3,"Catmon Elementary School",14.7421582,121.1680297
+"54","2025-07-16T05:00:00Z",100,68,0,1,31.1,"Cloudy",282,3.6,"Catmon Elementary School",14.7421582,121.1680297
+"55","2025-07-16T06:00:00Z",80,80,0,1,29.4,"Cloudy",268,4.5,"Catmon Elementary School",14.7421582,121.1680297
+"56","2025-07-16T07:00:00Z",100,78,0,1,28.4,"Cloudy",277,3.8,"Catmon Elementary School",14.7421582,121.1680297
+"57","2025-07-16T08:00:00Z",100,78,0,1,28.3,"Cloudy",275,1.8,"Catmon Elementary School",14.7421582,121.1680297
+"58","2025-07-16T09:00:00Z",100,86,0.02,1,27.1,"Cloudy",89,0.8,"Catmon Elementary School",14.7421582,121.1680297
+"59","2025-07-16T10:00:00Z",100,98,1.96,1,24.9,"Light Rain",87,3,"Catmon Elementary School",14.7421582,121.1680297
+"60","2025-07-16T11:00:00Z",100,96,0.05,1,24.4,"Cloudy",359,3.8,"Catmon Elementary School",14.7421582,121.1680297
+"61","2025-07-16T12:00:00Z",100,93,1.02,1,23.9,"Light Rain",4,3.3,"Catmon Elementary School",14.7421582,121.1680297
+"62","2025-07-16T13:00:00Z",100,96,0,1,23.8,"Cloudy",118,1.3,"Catmon Elementary School",14.7421582,121.1680297
+"63","2025-07-16T14:00:00Z",100,90,0,1,24.1,"Cloudy",66,0.6,"Catmon Elementary School",14.7421582,121.1680297
+"64","2025-07-16T15:00:00Z",100,95,0.09,1,23.7,"Cloudy",109,1.2,"Catmon Elementary School",14.7421582,121.1680297
+"65","2025-07-16T16:00:00Z",100,96,0.02,1,23.4,"Cloudy",69,1.8,"Catmon Elementary School",14.7421582,121.1680297
+"66","2025-07-16T17:00:00Z",100,94,0,0,23.6,"Cloudy",74,1.5,"Catmon Elementary School",14.7421582,121.1680297
+"67","2025-07-16T18:00:00Z",100,94,0,0,23.5,"Cloudy",92,1.4,"Catmon Elementary School",14.7421582,121.1680297
+"68","2025-07-16T19:00:00Z",100,91,0,0,24.2,"Cloudy",91,1,"Catmon Elementary School",14.7421582,121.1680297
+"69","2025-07-16T20:00:00Z",100,91,0,0,24.3,"Cloudy",79,0.8,"Catmon Elementary School",14.7421582,121.1680297
+"70","2025-07-16T21:00:00Z",100,92,0,0,24,"Cloudy",54,1.1,"Catmon Elementary School",14.7421582,121.1680297
+"71","2025-07-16T22:00:00Z",100,93,0.01,0,24.2,"Cloudy",38,0.6,"Catmon Elementary School",14.7421582,121.1680297
+"72","2025-07-16T23:00:00Z",100,93,0.02,1,25.2,"Cloudy",315,0.2,"Catmon Elementary School",14.7421582,121.1680297
+"73","2025-07-16T00:00:00Z",100,81,0,1,28.2,"Cloudy",328,1.9,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"74","2025-07-16T01:00:00Z",100,76,0.01,1,29,"Cloudy",319,2.7,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"75","2025-07-16T02:00:00Z",100,67,0,1,30,"Cloudy",266,3.2,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"76","2025-07-16T03:00:00Z",100,65,0.01,1,30.8,"Cloudy",288,2.3,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"77","2025-07-16T04:00:00Z",100,55,0,1,32.3,"Cloudy",281,2.8,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"78","2025-07-16T05:00:00Z",100,58,0,1,32.3,"Cloudy",268,3.9,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"79","2025-07-16T06:00:00Z",100,68,0,1,30.9,"Cloudy",269,4.2,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"80","2025-07-16T07:00:00Z",100,63,0,1,30.4,"Cloudy",276,4.2,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"81","2025-07-16T08:00:00Z",100,63,0,1,30.3,"Cloudy",258,2.9,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"82","2025-07-16T09:00:00Z",100,69,0.01,1,29.4,"Cloudy",254,1.4,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"83","2025-07-16T10:00:00Z",100,87,1.55,1,26.6,"Light Rain",88,2.7,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"84","2025-07-16T11:00:00Z",100,86,0.01,1,26,"Cloudy",0,4.1,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"85","2025-07-16T12:00:00Z",100,83,0.43,1,25.5,"Drizzle",11,3.4,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"86","2025-07-16T13:00:00Z",100,84,0.01,1,25.3,"Cloudy",307,0.3,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"87","2025-07-16T14:00:00Z",100,83,0,1,25.6,"Cloudy",304,0.2,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"88","2025-07-16T15:00:00Z",100,84,0.09,1,25.4,"Cloudy",126,0.7,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"89","2025-07-16T16:00:00Z",100,84,0.02,1,25.4,"Cloudy",71,1.1,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"90","2025-07-16T17:00:00Z",100,84,0,0,25.4,"Cloudy",101,0.9,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"91","2025-07-16T18:00:00Z",100,85,0,0,25.4,"Cloudy",124,0.8,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"92","2025-07-16T19:00:00Z",100,84,0,0,25.4,"Cloudy",115,0.5,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"93","2025-07-16T20:00:00Z",100,85,0,0,25.4,"Cloudy",121,0.4,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"94","2025-07-16T21:00:00Z",100,85,0,0,25.3,"Cloudy",70,0.6,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"95","2025-07-16T22:00:00Z",100,86,0.01,0,25.3,"Cloudy",66,0.3,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"96","2025-07-16T23:00:00Z",100,84,0.02,1,26,"Cloudy",341,0.4,"Eulogio Rodriguez Jr. Elementary School",14.7325656,121.1441013
+"97","2025-07-16T00:00:00Z",100,81,0,1,28.2,"Cloudy",328,1.9,"Geronimo Elementary School",14.7326831,121.1495245
+"98","2025-07-16T01:00:00Z",100,76,0.01,1,29,"Cloudy",319,2.7,"Geronimo Elementary School",14.7326831,121.1495245
+"99","2025-07-16T02:00:00Z",100,67,0,1,30,"Cloudy",266,3.2,"Geronimo Elementary School",14.7326831,121.1495245
+"100","2025-07-16T03:00:00Z",100,65,0.01,1,30.8,"Cloudy",288,2.3,"Geronimo Elementary School",14.7326831,121.1495245
+"101","2025-07-16T04:00:00Z",100,55,0,1,32.3,"Cloudy",281,2.8,"Geronimo Elementary School",14.7326831,121.1495245
+"102","2025-07-16T05:00:00Z",100,58,0,1,32.3,"Cloudy",268,3.9,"Geronimo Elementary School",14.7326831,121.1495245
+"103","2025-07-16T06:00:00Z",100,68,0,1,30.9,"Cloudy",269,4.2,"Geronimo Elementary School",14.7326831,121.1495245
+"104","2025-07-16T07:00:00Z",100,63,0,1,30.4,"Cloudy",276,4.2,"Geronimo Elementary School",14.7326831,121.1495245
+"105","2025-07-16T08:00:00Z",100,63,0,1,30.3,"Cloudy",258,2.9,"Geronimo Elementary School",14.7326831,121.1495245
+"106","2025-07-16T09:00:00Z",100,69,0.01,1,29.4,"Cloudy",254,1.4,"Geronimo Elementary School",14.7326831,121.1495245
+"107","2025-07-16T10:00:00Z",100,87,1.55,1,26.6,"Light Rain",88,2.7,"Geronimo Elementary School",14.7326831,121.1495245
+"108","2025-07-16T11:00:00Z",100,86,0.01,1,26,"Cloudy",0,4.1,"Geronimo Elementary School",14.7326831,121.1495245
+"109","2025-07-16T12:00:00Z",100,83,0.43,1,25.5,"Drizzle",11,3.4,"Geronimo Elementary School",14.7326831,121.1495245
+"110","2025-07-16T13:00:00Z",100,84,0.01,1,25.3,"Cloudy",307,0.3,"Geronimo Elementary School",14.7326831,121.1495245
+"111","2025-07-16T14:00:00Z",100,83,0,1,25.6,"Cloudy",304,0.2,"Geronimo Elementary School",14.7326831,121.1495245
+"112","2025-07-16T15:00:00Z",100,84,0.09,1,25.4,"Cloudy",126,0.7,"Geronimo Elementary School",14.7326831,121.1495245
+"113","2025-07-16T16:00:00Z",100,84,0.02,1,25.4,"Cloudy",71,1.1,"Geronimo Elementary School",14.7326831,121.1495245
+"114","2025-07-16T17:00:00Z",100,84,0,0,25.4,"Cloudy",101,0.9,"Geronimo Elementary School",14.7326831,121.1495245
+"115","2025-07-16T18:00:00Z",100,85,0,0,25.4,"Cloudy",124,0.8,"Geronimo Elementary School",14.7326831,121.1495245
+"116","2025-07-16T19:00:00Z",100,84,0,0,25.4,"Cloudy",115,0.5,"Geronimo Elementary School",14.7326831,121.1495245
+"117","2025-07-16T20:00:00Z",100,85,0,0,25.4,"Cloudy",121,0.4,"Geronimo Elementary School",14.7326831,121.1495245
+"118","2025-07-16T21:00:00Z",100,85,0,0,25.3,"Cloudy",70,0.6,"Geronimo Elementary School",14.7326831,121.1495245
+"119","2025-07-16T22:00:00Z",100,86,0.01,0,25.3,"Cloudy",66,0.3,"Geronimo Elementary School",14.7326831,121.1495245
+"120","2025-07-16T23:00:00Z",100,84,0.02,1,26,"Cloudy",341,0.4,"Geronimo Elementary School",14.7326831,121.1495245
+"121","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",326,2.1,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"122","2025-07-16T01:00:00Z",100,81,0.01,1,28.8,"Cloudy",316,2.8,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"123","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",280,2.4,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"124","2025-07-16T03:00:00Z",100,74,0,1,30,"Cloudy",278,1.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"125","2025-07-16T04:00:00Z",100,62,0,1,31.7,"Cloudy",280,2.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"126","2025-07-16T05:00:00Z",100,65,0,1,31.7,"Cloudy",272,3.8,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"127","2025-07-16T06:00:00Z",70,75,0,1,30.4,"Mostly Cloudy",265,4.4,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"128","2025-07-16T07:00:00Z",100,73,0,1,29.2,"Cloudy",272,3.9,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"129","2025-07-16T08:00:00Z",100,71,0,1,29.3,"Cloudy",254,2.7,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"130","2025-07-16T09:00:00Z",100,79,0.01,1,28.3,"Cloudy",287,0.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"131","2025-07-16T10:00:00Z",100,95,1.08,1,25.5,"Light Rain",81,2.9,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"132","2025-07-16T11:00:00Z",100,94,0.01,1,24.5,"Cloudy",1,4.8,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"133","2025-07-16T12:00:00Z",100,91,1.13,1,24.3,"Light Rain",6,4.3,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"134","2025-07-16T13:00:00Z",100,91,0,1,24.6,"Cloudy",25,0.2,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"135","2025-07-16T14:00:00Z",100,89,0,1,24.6,"Cloudy",334,0.5,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"136","2025-07-16T15:00:00Z",100,92,0.06,1,24.5,"Cloudy",80,0.7,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"137","2025-07-16T16:00:00Z",100,94,0.02,1,24.2,"Cloudy",49,1.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"138","2025-07-16T17:00:00Z",100,93,0,0,24.3,"Cloudy",46,1.1,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"139","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",61,0.8,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"140","2025-07-16T19:00:00Z",100,89,0,0,24.8,"Cloudy",41,0.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"141","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",30,0.6,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"142","2025-07-16T21:00:00Z",100,91,0,0,24.4,"Cloudy",28,1.1,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"143","2025-07-16T22:00:00Z",100,91,0.01,0,24.6,"Cloudy",1,0.8,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"144","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",338,0.3,"Kasiglahan Village Elementary School Unit I",14.7444949,121.1401666
+"145","2025-07-16T00:00:00Z",100,95,0,1,23.1,"Cloudy",298,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"146","2025-07-16T01:00:00Z",100,94,0,1,23.5,"Cloudy",297,4.8,"Kinabuan Elementary School",14.7590281,121.3196203
+"147","2025-07-16T02:00:00Z",100,90,0,1,24.4,"Cloudy",290,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"148","2025-07-16T03:00:00Z",100,89,0,0,24.8,"Cloudy",291,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"149","2025-07-16T04:00:00Z",100,88,0,0,25.3,"Cloudy",280,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"150","2025-07-16T05:00:00Z",94,83,0,0,25.8,"Cloudy",279,4.7,"Kinabuan Elementary School",14.7590281,121.3196203
+"151","2025-07-16T06:00:00Z",37,86,0,1,25.8,"Partly Cloudy",282,4.7,"Kinabuan Elementary School",14.7590281,121.3196203
+"152","2025-07-16T07:00:00Z",100,100,2.92,1,23.9,"Rain",273,4.8,"Kinabuan Elementary School",14.7590281,121.3196203
+"153","2025-07-16T08:00:00Z",100,95,0,1,23.4,"Cloudy",287,4.7,"Kinabuan Elementary School",14.7590281,121.3196203
+"154","2025-07-16T09:00:00Z",100,98,0,1,22.6,"Cloudy",280,3.9,"Kinabuan Elementary School",14.7590281,121.3196203
+"155","2025-07-16T10:00:00Z",100,100,0,1,21.8,"Fog",289,3.6,"Kinabuan Elementary School",14.7590281,121.3196203
+"156","2025-07-16T11:00:00Z",28,99,0.71,1,21.4,"Light Rain",303,5.2,"Kinabuan Elementary School",14.7590281,121.3196203
+"157","2025-07-16T12:00:00Z",100,93,0.63,1,20.7,"Light Rain",322,7.3,"Kinabuan Elementary School",14.7590281,121.3196203
+"158","2025-07-16T13:00:00Z",22,91,0,1,21.1,"Mostly Clear",321,6.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"159","2025-07-16T14:00:00Z",100,95,0.48,1,21.2,"Drizzle",309,3.3,"Kinabuan Elementary School",14.7590281,121.3196203
+"160","2025-07-16T15:00:00Z",100,96,0.07,1,21.4,"Cloudy",319,4.6,"Kinabuan Elementary School",14.7590281,121.3196203
+"161","2025-07-16T16:00:00Z",100,96,0,0,21.6,"Cloudy",325,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"162","2025-07-16T17:00:00Z",100,96,0,0,21.4,"Cloudy",324,4,"Kinabuan Elementary School",14.7590281,121.3196203
+"163","2025-07-16T18:00:00Z",100,95,0,0,21.4,"Cloudy",327,3.8,"Kinabuan Elementary School",14.7590281,121.3196203
+"164","2025-07-16T19:00:00Z",100,94,0,0,21.4,"Cloudy",322,3.9,"Kinabuan Elementary School",14.7590281,121.3196203
+"165","2025-07-16T20:00:00Z",100,94,0,0,21.4,"Cloudy",323,3.8,"Kinabuan Elementary School",14.7590281,121.3196203
+"166","2025-07-16T21:00:00Z",100,93,0.01,1,21.4,"Cloudy",325,4.1,"Kinabuan Elementary School",14.7590281,121.3196203
+"167","2025-07-16T22:00:00Z",100,94,0.04,1,21.5,"Cloudy",317,4.3,"Kinabuan Elementary School",14.7590281,121.3196203
+"168","2025-07-16T23:00:00Z",100,95,0,0,22.1,"Cloudy",313,4.4,"Kinabuan Elementary School",14.7590281,121.3196203
+"169","2025-07-16T00:00:00Z",100,87,0,1,27.3,"Cloudy",316,2.7,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"170","2025-07-16T01:00:00Z",100,84,0,1,27.9,"Cloudy",305,3.1,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"171","2025-07-16T02:00:00Z",100,80,0,1,28.8,"Cloudy",295,2.7,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"172","2025-07-16T03:00:00Z",100,78,0,0,29.4,"Cloudy",273,2.4,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"173","2025-07-16T04:00:00Z",100,69,0,1,30.4,"Cloudy",279,2.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"174","2025-07-16T05:00:00Z",100,71,0,1,30.4,"Cloudy",284,3.3,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"175","2025-07-16T06:00:00Z",81,78,0,1,29.6,"Cloudy",260,4.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"176","2025-07-16T07:00:00Z",100,79,0,1,28.1,"Cloudy",279,3.8,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"177","2025-07-16T08:00:00Z",100,79,0,1,28,"Cloudy",269,1.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"178","2025-07-16T09:00:00Z",100,90,3.16,1,26.6,"Rain",334,1.9,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"179","2025-07-16T10:00:00Z",100,96,0.04,1,25.1,"Cloudy",62,2.3,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"180","2025-07-16T11:00:00Z",100,93,0.23,1,23.5,"Cloudy",358,7.4,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"181","2025-07-16T12:00:00Z",100,93,2.91,1,23.7,"Rain",350,2.9,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"182","2025-07-16T13:00:00Z",30,93,0,1,23.6,"Mostly Clear",6,2.7,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"183","2025-07-16T14:00:00Z",100,94,0,1,23.7,"Cloudy",4,1.8,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"184","2025-07-16T15:00:00Z",100,95,0.01,1,23.8,"Cloudy",19,1.3,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"185","2025-07-16T16:00:00Z",100,94,0.01,0,23.9,"Cloudy",15,1.9,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"186","2025-07-16T17:00:00Z",100,95,0,0,23.7,"Cloudy",12,2,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"187","2025-07-16T18:00:00Z",100,95,0,0,23.7,"Cloudy",12,1.9,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"188","2025-07-16T19:00:00Z",100,95,0,0,23.8,"Cloudy",357,1.5,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"189","2025-07-16T20:00:00Z",100,94,0,0,23.9,"Cloudy",359,1.3,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"190","2025-07-16T21:00:00Z",100,96,0,0,23.5,"Cloudy",5,1.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"191","2025-07-16T22:00:00Z",100,94,0.01,0,24.1,"Cloudy",342,1.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"192","2025-07-16T23:00:00Z",100,93,0.01,0,25.3,"Cloudy",302,0.6,"Lukutan Malaki Elementary School",14.7830036,121.1681017
+"193","2025-07-16T00:00:00Z",100,97,0,1,23.8,"Cloudy",286,2.6,"Macaingalan Elementary School",14.8110358,121.2196679
+"194","2025-07-16T01:00:00Z",100,92,0,1,24.6,"Cloudy",284,2.9,"Macaingalan Elementary School",14.8110358,121.2196679
+"195","2025-07-16T02:00:00Z",100,88,0,1,25.4,"Cloudy",277,3.2,"Macaingalan Elementary School",14.8110358,121.2196679
+"196","2025-07-16T03:00:00Z",100,85,0,0,26,"Cloudy",283,3.4,"Macaingalan Elementary School",14.8110358,121.2196679
+"197","2025-07-16T04:00:00Z",100,83,0,0,26.3,"Cloudy",263,3.4,"Macaingalan Elementary School",14.8110358,121.2196679
+"198","2025-07-16T05:00:00Z",100,83,0,0,26.7,"Cloudy",261,3.4,"Macaingalan Elementary School",14.8110358,121.2196679
+"199","2025-07-16T06:00:00Z",100,88,0,1,26.3,"Cloudy",257,3.6,"Macaingalan Elementary School",14.8110358,121.2196679
+"200","2025-07-16T07:00:00Z",100,94,0,1,24.8,"Cloudy",271,3.8,"Macaingalan Elementary School",14.8110358,121.2196679
+"201","2025-07-16T08:00:00Z",100,90,0,1,24.6,"Cloudy",263,2.7,"Macaingalan Elementary School",14.8110358,121.2196679
+"202","2025-07-16T09:00:00Z",100,99,2.77,1,23,"Rain",278,2.4,"Macaingalan Elementary School",14.8110358,121.2196679
+"203","2025-07-16T10:00:00Z",100,100,0.01,1,22.6,"Fog",238,1.5,"Macaingalan Elementary School",14.8110358,121.2196679
+"204","2025-07-16T11:00:00Z",100,97,0.34,1,21.3,"Drizzle",346,5.4,"Macaingalan Elementary School",14.8110358,121.2196679
+"205","2025-07-16T12:00:00Z",100,96,3.52,1,21.6,"Rain",9,3.7,"Macaingalan Elementary School",14.8110358,121.2196679
+"206","2025-07-16T13:00:00Z",44,97,0,1,21.4,"Partly Cloudy",15,1.9,"Macaingalan Elementary School",14.8110358,121.2196679
+"207","2025-07-16T14:00:00Z",100,97,0,1,21.4,"Cloudy",31,1.9,"Macaingalan Elementary School",14.8110358,121.2196679
+"208","2025-07-16T15:00:00Z",100,98,0,1,21.6,"Cloudy",26,1.9,"Macaingalan Elementary School",14.8110358,121.2196679
+"209","2025-07-16T16:00:00Z",100,98,0,0,21.9,"Cloudy",26,2.3,"Macaingalan Elementary School",14.8110358,121.2196679
+"210","2025-07-16T17:00:00Z",100,99,0,0,21.8,"Cloudy",32,2.3,"Macaingalan Elementary School",14.8110358,121.2196679
+"211","2025-07-16T18:00:00Z",100,99,0,0,21.9,"Cloudy",32,2.3,"Macaingalan Elementary School",14.8110358,121.2196679
+"212","2025-07-16T19:00:00Z",100,99,0,0,21.8,"Cloudy",35,2.1,"Macaingalan Elementary School",14.8110358,121.2196679
+"213","2025-07-16T20:00:00Z",100,99,0,0,21.6,"Cloudy",33,2.1,"Macaingalan Elementary School",14.8110358,121.2196679
+"214","2025-07-16T21:00:00Z",100,99,0,0,21.5,"Cloudy",27,2.1,"Macaingalan Elementary School",14.8110358,121.2196679
+"215","2025-07-16T22:00:00Z",100,98,0.01,0,21.9,"Cloudy",6,1.5,"Macaingalan Elementary School",14.8110358,121.2196679
+"216","2025-07-16T23:00:00Z",100,98,0,0,22.9,"Cloudy",291,1.2,"Macaingalan Elementary School",14.8110358,121.2196679
+"217","2025-07-16T00:00:00Z",100,81,0,1,28.2,"Cloudy",328,1.9,"Manggahan Elementary School",14.7237134,121.1430323
+"218","2025-07-16T01:00:00Z",100,76,0.01,1,29,"Cloudy",319,2.7,"Manggahan Elementary School",14.7237134,121.1430323
+"219","2025-07-16T02:00:00Z",100,67,0,1,30,"Cloudy",266,3.2,"Manggahan Elementary School",14.7237134,121.1430323
+"220","2025-07-16T03:00:00Z",100,65,0.01,1,30.8,"Cloudy",288,2.3,"Manggahan Elementary School",14.7237134,121.1430323
+"221","2025-07-16T04:00:00Z",100,55,0,1,32.3,"Cloudy",281,2.8,"Manggahan Elementary School",14.7237134,121.1430323
+"222","2025-07-16T05:00:00Z",100,58,0,1,32.3,"Cloudy",268,3.9,"Manggahan Elementary School",14.7237134,121.1430323
+"223","2025-07-16T06:00:00Z",100,68,0,1,30.9,"Cloudy",269,4.2,"Manggahan Elementary School",14.7237134,121.1430323
+"224","2025-07-16T07:00:00Z",100,63,0,1,30.4,"Cloudy",276,4.2,"Manggahan Elementary School",14.7237134,121.1430323
+"225","2025-07-16T08:00:00Z",100,63,0,1,30.3,"Cloudy",258,2.9,"Manggahan Elementary School",14.7237134,121.1430323
+"226","2025-07-16T09:00:00Z",100,69,0.01,1,29.4,"Cloudy",254,1.4,"Manggahan Elementary School",14.7237134,121.1430323
+"227","2025-07-16T10:00:00Z",100,87,1.55,1,26.6,"Light Rain",88,2.7,"Manggahan Elementary School",14.7237134,121.1430323
+"228","2025-07-16T11:00:00Z",100,86,0.01,1,26,"Cloudy",0,4.1,"Manggahan Elementary School",14.7237134,121.1430323
+"229","2025-07-16T12:00:00Z",100,83,0.43,1,25.5,"Drizzle",11,3.4,"Manggahan Elementary School",14.7237134,121.1430323
+"230","2025-07-16T13:00:00Z",100,84,0.01,1,25.3,"Cloudy",307,0.3,"Manggahan Elementary School",14.7237134,121.1430323
+"231","2025-07-16T14:00:00Z",100,83,0,1,25.6,"Cloudy",304,0.2,"Manggahan Elementary School",14.7237134,121.1430323
+"232","2025-07-16T15:00:00Z",100,84,0.09,1,25.4,"Cloudy",126,0.7,"Manggahan Elementary School",14.7237134,121.1430323
+"233","2025-07-16T16:00:00Z",100,84,0.02,1,25.4,"Cloudy",71,1.1,"Manggahan Elementary School",14.7237134,121.1430323
+"234","2025-07-16T17:00:00Z",100,84,0,0,25.4,"Cloudy",101,0.9,"Manggahan Elementary School",14.7237134,121.1430323
+"235","2025-07-16T18:00:00Z",100,85,0,0,25.4,"Cloudy",124,0.8,"Manggahan Elementary School",14.7237134,121.1430323
+"236","2025-07-16T19:00:00Z",100,84,0,0,25.4,"Cloudy",115,0.5,"Manggahan Elementary School",14.7237134,121.1430323
+"237","2025-07-16T20:00:00Z",100,85,0,0,25.4,"Cloudy",121,0.4,"Manggahan Elementary School",14.7237134,121.1430323
+"238","2025-07-16T21:00:00Z",100,85,0,0,25.3,"Cloudy",70,0.6,"Manggahan Elementary School",14.7237134,121.1430323
+"239","2025-07-16T22:00:00Z",100,86,0.01,0,25.3,"Cloudy",66,0.3,"Manggahan Elementary School",14.7237134,121.1430323
+"240","2025-07-16T23:00:00Z",100,84,0.02,1,26,"Cloudy",341,0.4,"Manggahan Elementary School",14.7237134,121.1430323
+"241","2025-07-16T00:00:00Z",100,87,0,1,27.1,"Cloudy",311,2.2,"Mascap Elementary School",14.7626207,121.1831991
+"242","2025-07-16T01:00:00Z",100,83,0,1,27.9,"Cloudy",299,2.8,"Mascap Elementary School",14.7626207,121.1831991
+"243","2025-07-16T02:00:00Z",100,80,0,1,28.6,"Cloudy",292,2.7,"Mascap Elementary School",14.7626207,121.1831991
+"244","2025-07-16T03:00:00Z",100,83,0,1,28.4,"Cloudy",243,1.5,"Mascap Elementary School",14.7626207,121.1831991
+"245","2025-07-16T04:00:00Z",100,69,0,1,30.3,"Cloudy",277,2.1,"Mascap Elementary School",14.7626207,121.1831991
+"246","2025-07-16T05:00:00Z",100,70,0,1,30.4,"Cloudy",287,3.1,"Mascap Elementary School",14.7626207,121.1831991
+"247","2025-07-16T06:00:00Z",89,78,0,1,29.1,"Cloudy",264,4.2,"Mascap Elementary School",14.7626207,121.1831991
+"248","2025-07-16T07:00:00Z",100,78,0,1,28.3,"Cloudy",278,3.6,"Mascap Elementary School",14.7626207,121.1831991
+"249","2025-07-16T08:00:00Z",100,83,0,1,27.5,"Cloudy",321,0.9,"Mascap Elementary School",14.7626207,121.1831991
+"250","2025-07-16T09:00:00Z",100,89,0.01,1,26.6,"Cloudy",192,0.4,"Mascap Elementary School",14.7626207,121.1831991
+"251","2025-07-16T10:00:00Z",100,98,1.19,1,24.7,"Light Rain",82,2.3,"Mascap Elementary School",14.7626207,121.1831991
+"252","2025-07-16T11:00:00Z",100,94,0.27,1,23.8,"Drizzle",358,4.7,"Mascap Elementary School",14.7626207,121.1831991
+"253","2025-07-16T12:00:00Z",100,93,1.6,1,23.7,"Light Rain",2,2.6,"Mascap Elementary School",14.7626207,121.1831991
+"254","2025-07-16T13:00:00Z",32,95,0,1,23.3,"Mostly Clear",65,1.9,"Mascap Elementary School",14.7626207,121.1831991
+"255","2025-07-16T14:00:00Z",100,96,0,1,23.3,"Cloudy",39,1.6,"Mascap Elementary School",14.7626207,121.1831991
+"256","2025-07-16T15:00:00Z",100,97,0.04,1,23.3,"Cloudy",71,1.3,"Mascap Elementary School",14.7626207,121.1831991
+"257","2025-07-16T16:00:00Z",100,95,0.02,1,23.4,"Cloudy",47,1.9,"Mascap Elementary School",14.7626207,121.1831991
+"258","2025-07-16T17:00:00Z",100,97,0,0,23.2,"Cloudy",45,1.8,"Mascap Elementary School",14.7626207,121.1831991
+"259","2025-07-16T18:00:00Z",100,97,0,0,23.3,"Cloudy",53,1.8,"Mascap Elementary School",14.7626207,121.1831991
+"260","2025-07-16T19:00:00Z",100,95,0,0,23.6,"Cloudy",37,1.3,"Mascap Elementary School",14.7626207,121.1831991
+"261","2025-07-16T20:00:00Z",100,94,0,0,23.7,"Cloudy",26,1.2,"Mascap Elementary School",14.7626207,121.1831991
+"262","2025-07-16T21:00:00Z",100,97,0,0,23.2,"Cloudy",28,1.6,"Mascap Elementary School",14.7626207,121.1831991
+"263","2025-07-16T22:00:00Z",100,96,0.01,0,23.8,"Cloudy",7,1.1,"Mascap Elementary School",14.7626207,121.1831991
+"264","2025-07-16T23:00:00Z",100,94,0.01,0,24.9,"Cloudy",290,0.4,"Mascap Elementary School",14.7626207,121.1831991
+"265","2025-07-16T00:00:00Z",100,88,0,1,27.4,"Cloudy",324,2.2,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"266","2025-07-16T01:00:00Z",100,86,0,1,28.1,"Cloudy",314,2.9,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"267","2025-07-16T02:00:00Z",100,80,0,1,28.8,"Cloudy",294,2.6,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"268","2025-07-16T03:00:00Z",100,81,0.01,1,29.3,"Cloudy",294,0.7,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"269","2025-07-16T04:00:00Z",100,67,0,1,30.8,"Cloudy",289,2.3,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"270","2025-07-16T05:00:00Z",100,68,0,1,31.1,"Cloudy",282,3.6,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"271","2025-07-16T06:00:00Z",80,80,0,1,29.4,"Cloudy",268,4.5,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"272","2025-07-16T07:00:00Z",100,78,0,1,28.4,"Cloudy",277,3.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"273","2025-07-16T08:00:00Z",100,78,0,1,28.3,"Cloudy",275,1.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"274","2025-07-16T09:00:00Z",100,86,0.02,1,27.1,"Cloudy",89,0.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"275","2025-07-16T10:00:00Z",100,98,1.96,1,24.9,"Light Rain",87,3,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"276","2025-07-16T11:00:00Z",100,96,0.05,1,24.4,"Cloudy",359,3.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"277","2025-07-16T12:00:00Z",100,93,1.02,1,23.9,"Light Rain",4,3.3,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"278","2025-07-16T13:00:00Z",100,96,0,1,23.8,"Cloudy",118,1.3,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"279","2025-07-16T14:00:00Z",100,90,0,1,24.1,"Cloudy",66,0.6,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"280","2025-07-16T15:00:00Z",100,95,0.09,1,23.7,"Cloudy",109,1.2,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"281","2025-07-16T16:00:00Z",100,96,0.02,1,23.4,"Cloudy",69,1.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"282","2025-07-16T17:00:00Z",100,94,0,0,23.6,"Cloudy",74,1.5,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"283","2025-07-16T18:00:00Z",100,94,0,0,23.5,"Cloudy",92,1.4,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"284","2025-07-16T19:00:00Z",100,91,0,0,24.2,"Cloudy",91,1,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"285","2025-07-16T20:00:00Z",100,91,0,0,24.3,"Cloudy",79,0.8,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"286","2025-07-16T21:00:00Z",100,92,0,0,24,"Cloudy",54,1.1,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"287","2025-07-16T22:00:00Z",100,93,0.01,0,24.2,"Cloudy",38,0.6,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"288","2025-07-16T23:00:00Z",100,93,0.02,1,25.2,"Cloudy",315,0.2,"Mascap Elementary School Magalipit Annex",14.7501441,121.1711606
+"289","2025-07-16T00:00:00Z",100,89,0,1,26.4,"Cloudy",308,2.3,"Puray Elementary School",14.7718266,121.2053732
+"290","2025-07-16T01:00:00Z",100,86,0,1,27.1,"Cloudy",294,2.9,"Puray Elementary School",14.7718266,121.2053732
+"291","2025-07-16T02:00:00Z",100,82,0,1,27.8,"Cloudy",288,2.9,"Puray Elementary School",14.7718266,121.2053732
+"292","2025-07-16T03:00:00Z",100,88,0.03,1,27.2,"Cloudy",240,2,"Puray Elementary School",14.7718266,121.2053732
+"293","2025-07-16T04:00:00Z",100,74,0,0,29.1,"Cloudy",273,2.3,"Puray Elementary School",14.7718266,121.2053732
+"294","2025-07-16T05:00:00Z",100,72,0,1,29.4,"Cloudy",287,3.1,"Puray Elementary School",14.7718266,121.2053732
+"295","2025-07-16T06:00:00Z",96,82,0,1,27.9,"Cloudy",268,3.9,"Puray Elementary School",14.7718266,121.2053732
+"296","2025-07-16T07:00:00Z",100,81,0.01,1,27.8,"Cloudy",279,3.6,"Puray Elementary School",14.7718266,121.2053732
+"297","2025-07-16T08:00:00Z",100,86,0,1,26.6,"Cloudy",343,1.2,"Puray Elementary School",14.7718266,121.2053732
+"298","2025-07-16T09:00:00Z",100,90,0,1,25.9,"Cloudy",240,1.2,"Puray Elementary School",14.7718266,121.2053732
+"299","2025-07-16T10:00:00Z",100,100,1.51,1,24.1,"Light Rain",86,1.4,"Puray Elementary School",14.7718266,121.2053732
+"300","2025-07-16T11:00:00Z",100,96,0.7,1,23.5,"Light Rain",351,3.7,"Puray Elementary School",14.7718266,121.2053732
+"301","2025-07-16T12:00:00Z",100,94,1.27,1,23.2,"Light Rain",2,2.4,"Puray Elementary School",14.7718266,121.2053732
+"302","2025-07-16T13:00:00Z",30,95,0,1,22.8,"Mostly Clear",52,2.1,"Puray Elementary School",14.7718266,121.2053732
+"303","2025-07-16T14:00:00Z",100,97,0,1,22.7,"Cloudy",31,1.7,"Puray Elementary School",14.7718266,121.2053732
+"304","2025-07-16T15:00:00Z",100,98,0.05,1,22.8,"Cloudy",53,1.3,"Puray Elementary School",14.7718266,121.2053732
+"305","2025-07-16T16:00:00Z",100,97,0.01,0,22.8,"Cloudy",36,1.8,"Puray Elementary School",14.7718266,121.2053732
+"306","2025-07-16T17:00:00Z",100,98,0,0,22.6,"Cloudy",33,1.7,"Puray Elementary School",14.7718266,121.2053732
+"307","2025-07-16T18:00:00Z",100,98,0,0,22.5,"Cloudy",40,1.8,"Puray Elementary School",14.7718266,121.2053732
+"308","2025-07-16T19:00:00Z",100,97,0,0,22.8,"Cloudy",22,1.4,"Puray Elementary School",14.7718266,121.2053732
+"309","2025-07-16T20:00:00Z",100,96,0,0,22.8,"Cloudy",14,1.3,"Puray Elementary School",14.7718266,121.2053732
+"310","2025-07-16T21:00:00Z",100,98,0,0,22.5,"Cloudy",22,1.7,"Puray Elementary School",14.7718266,121.2053732
+"311","2025-07-16T22:00:00Z",100,96,0.01,0,23.3,"Cloudy",0,1.2,"Puray Elementary School",14.7718266,121.2053732
+"312","2025-07-16T23:00:00Z",100,96,0.01,0,24.3,"Cloudy",303,0.8,"Puray Elementary School",14.7718266,121.2053732
+"313","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",325,2.1,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"314","2025-07-16T01:00:00Z",100,81,0,1,28.9,"Cloudy",316,2.6,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"315","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",272,2.4,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"316","2025-07-16T03:00:00Z",100,72,0,1,30.3,"Cloudy",275,2.4,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"317","2025-07-16T04:00:00Z",100,62,0,1,31.8,"Cloudy",277,2.8,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"318","2025-07-16T05:00:00Z",100,64,0,1,31.9,"Cloudy",266,3.7,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"319","2025-07-16T06:00:00Z",53,75,0,1,30.4,"Partly Cloudy",265,4.1,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"320","2025-07-16T07:00:00Z",100,70,0,1,29.6,"Cloudy",270,3.7,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"321","2025-07-16T08:00:00Z",100,70,0,1,29.6,"Cloudy",250,3.2,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"322","2025-07-16T09:00:00Z",100,76,0,1,28.8,"Cloudy",276,1.9,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"323","2025-07-16T10:00:00Z",100,93,0.48,1,25.9,"Drizzle",68,2.2,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"324","2025-07-16T11:00:00Z",100,93,0,1,24.3,"Cloudy",1,5.3,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"325","2025-07-16T12:00:00Z",100,92,1.16,1,24.3,"Light Rain",6,4.8,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"326","2025-07-16T13:00:00Z",100,94,0,1,24.1,"Cloudy",320,1.3,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"327","2025-07-16T14:00:00Z",100,94,0,1,24.2,"Cloudy",329,1.1,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"328","2025-07-16T15:00:00Z",100,94,0.04,1,24.3,"Cloudy",6,0.9,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"329","2025-07-16T16:00:00Z",100,94,0.02,1,24.3,"Cloudy",21,1.6,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"330","2025-07-16T17:00:00Z",100,94,0,0,24.2,"Cloudy",9,1.3,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"331","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",1,0.8,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"332","2025-07-16T19:00:00Z",100,91,0,0,24.6,"Cloudy",354,0.9,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"333","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",353,0.8,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"334","2025-07-16T21:00:00Z",100,94,0,0,24.1,"Cloudy",7,1.3,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"335","2025-07-16T22:00:00Z",100,93,0.01,0,24.5,"Cloudy",344,1.2,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"336","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",336,0.6,"Rodriguez Heights Elementary School",14.746545,121.1235608
+"337","2025-07-16T00:00:00Z",100,87,0,1,27.6,"Cloudy",318,2.2,"San Isidro Elementary School",14.7616824,121.1582296
+"338","2025-07-16T01:00:00Z",100,84,0,1,28.3,"Cloudy",307,2.9,"San Isidro Elementary School",14.7616824,121.1582296
+"339","2025-07-16T02:00:00Z",100,80,0,1,29.1,"Cloudy",297,2.4,"San Isidro Elementary School",14.7616824,121.1582296
+"340","2025-07-16T03:00:00Z",100,79,0,1,29.5,"Cloudy",256,1.4,"San Isidro Elementary School",14.7616824,121.1582296
+"341","2025-07-16T04:00:00Z",100,67,0,1,30.8,"Cloudy",281,2.2,"San Isidro Elementary School",14.7616824,121.1582296
+"342","2025-07-16T05:00:00Z",100,68,0,1,31.3,"Cloudy",284,3.3,"San Isidro Elementary School",14.7616824,121.1582296
+"343","2025-07-16T06:00:00Z",83,78,0,1,29.9,"Cloudy",262,4.4,"San Isidro Elementary School",14.7616824,121.1582296
+"344","2025-07-16T07:00:00Z",100,78,0,1,28.5,"Cloudy",276,3.6,"San Isidro Elementary School",14.7616824,121.1582296
+"345","2025-07-16T08:00:00Z",100,78,0,1,28.4,"Cloudy",265,1.4,"San Isidro Elementary School",14.7616824,121.1582296
+"346","2025-07-16T09:00:00Z",100,87,0.01,1,27.3,"Cloudy",65,0.3,"San Isidro Elementary School",14.7616824,121.1582296
+"347","2025-07-16T10:00:00Z",100,97,0.75,1,25.1,"Light Rain",76,2.8,"San Isidro Elementary School",14.7616824,121.1582296
+"348","2025-07-16T11:00:00Z",100,94,0.08,1,24,"Cloudy",359,5.7,"San Isidro Elementary School",14.7616824,121.1582296
+"349","2025-07-16T12:00:00Z",100,93,1.91,1,24,"Light Rain",358,3.2,"San Isidro Elementary School",14.7616824,121.1582296
+"350","2025-07-16T13:00:00Z",36,96,0,1,23.7,"Mostly Clear",55,1.3,"San Isidro Elementary School",14.7616824,121.1582296
+"351","2025-07-16T14:00:00Z",100,95,0,1,23.7,"Cloudy",23,1.1,"San Isidro Elementary School",14.7616824,121.1582296
+"352","2025-07-16T15:00:00Z",100,94,0.03,1,23.9,"Cloudy",68,1,"San Isidro Elementary School",14.7616824,121.1582296
+"353","2025-07-16T16:00:00Z",100,95,0.02,1,23.8,"Cloudy",42,1.8,"San Isidro Elementary School",14.7616824,121.1582296
+"354","2025-07-16T17:00:00Z",100,96,0,0,23.6,"Cloudy",36,1.6,"San Isidro Elementary School",14.7616824,121.1582296
+"355","2025-07-16T18:00:00Z",100,95,0,0,23.6,"Cloudy",45,1.4,"San Isidro Elementary School",14.7616824,121.1582296
+"356","2025-07-16T19:00:00Z",100,91,0,0,24.4,"Cloudy",29,1,"San Isidro Elementary School",14.7616824,121.1582296
+"357","2025-07-16T20:00:00Z",100,90,0,0,24.6,"Cloudy",19,0.9,"San Isidro Elementary School",14.7616824,121.1582296
+"358","2025-07-16T21:00:00Z",100,94,0,0,23.9,"Cloudy",21,1.4,"San Isidro Elementary School",14.7616824,121.1582296
+"359","2025-07-16T22:00:00Z",100,95,0.01,0,24.3,"Cloudy",354,1.1,"San Isidro Elementary School",14.7616824,121.1582296
+"360","2025-07-16T23:00:00Z",100,93,0.01,0,25.4,"Cloudy",277,0.3,"San Isidro Elementary School",14.7616824,121.1582296
+"361","2025-07-16T00:00:00Z",100,80,0,1,28.5,"Cloudy",330,1.8,"San Jose Elementary School",14.7300568,121.13477
+"362","2025-07-16T01:00:00Z",100,73,0.01,1,29.7,"Cloudy",315,2.4,"San Jose Elementary School",14.7300568,121.13477
+"363","2025-07-16T02:00:00Z",100,65,0,1,30.5,"Cloudy",263,2.9,"San Jose Elementary School",14.7300568,121.13477
+"364","2025-07-16T03:00:00Z",100,62,0,1,31.3,"Cloudy",281,2.6,"San Jose Elementary School",14.7300568,121.13477
+"365","2025-07-16T04:00:00Z",100,54,0,1,32.6,"Cloudy",278,2.7,"San Jose Elementary School",14.7300568,121.13477
+"366","2025-07-16T05:00:00Z",100,57,0,1,32.7,"Cloudy",263,3.6,"San Jose Elementary School",14.7300568,121.13477
+"367","2025-07-16T06:00:00Z",50,68,0,1,31.1,"Partly Cloudy",267,3.8,"San Jose Elementary School",14.7300568,121.13477
+"368","2025-07-16T07:00:00Z",100,61,0,1,30.9,"Cloudy",275,3.7,"San Jose Elementary School",14.7300568,121.13477
+"369","2025-07-16T08:00:00Z",100,62,0,1,30.7,"Cloudy",251,2.9,"San Jose Elementary School",14.7300568,121.13477
+"370","2025-07-16T09:00:00Z",100,66,0.01,1,30.1,"Cloudy",263,2.3,"San Jose Elementary School",14.7300568,121.13477
+"371","2025-07-16T10:00:00Z",100,82,0.73,1,27.5,"Light Rain",76,2.2,"San Jose Elementary School",14.7300568,121.13477
+"372","2025-07-16T11:00:00Z",100,84,0.01,1,26.1,"Cloudy",2,4.4,"San Jose Elementary School",14.7300568,121.13477
+"373","2025-07-16T12:00:00Z",100,81,0.39,1,25.9,"Drizzle",10,3.8,"San Jose Elementary School",14.7300568,121.13477
+"374","2025-07-16T13:00:00Z",100,85,0.01,1,25.4,"Cloudy",299,0.9,"San Jose Elementary School",14.7300568,121.13477
+"375","2025-07-16T14:00:00Z",100,82,0,1,25.8,"Cloudy",337,0.7,"San Jose Elementary School",14.7300568,121.13477
+"376","2025-07-16T15:00:00Z",100,82,0.06,1,25.8,"Cloudy",30,0.4,"San Jose Elementary School",14.7300568,121.13477
+"377","2025-07-16T16:00:00Z",100,83,0.02,1,25.8,"Cloudy",24,1.1,"San Jose Elementary School",14.7300568,121.13477
+"378","2025-07-16T17:00:00Z",100,82,0,0,25.8,"Cloudy",29,0.6,"San Jose Elementary School",14.7300568,121.13477
+"379","2025-07-16T18:00:00Z",100,83,0,0,25.8,"Cloudy",8,0.2,"San Jose Elementary School",14.7300568,121.13477
+"380","2025-07-16T19:00:00Z",100,83,0,0,25.8,"Cloudy",5,0.4,"San Jose Elementary School",14.7300568,121.13477
+"381","2025-07-16T20:00:00Z",100,83,0,0,25.8,"Cloudy",358,0.4,"San Jose Elementary School",14.7300568,121.13477
+"382","2025-07-16T21:00:00Z",100,84,0,0,25.6,"Cloudy",13,0.8,"San Jose Elementary School",14.7300568,121.13477
+"383","2025-07-16T22:00:00Z",100,84,0.01,0,25.6,"Cloudy",357,0.7,"San Jose Elementary School",14.7300568,121.13477
+"384","2025-07-16T23:00:00Z",100,83,0.02,1,26.3,"Cloudy",348,0.6,"San Jose Elementary School",14.7300568,121.13477
+"385","2025-07-16T00:00:00Z",100,86,0,1,27.3,"Cloudy",325,2.4,"San Rafael Elementary School",14.7321213,121.1585205
+"386","2025-07-16T01:00:00Z",100,81,0.01,1,28.2,"Cloudy",318,3.3,"San Rafael Elementary School",14.7321213,121.1585205
+"387","2025-07-16T02:00:00Z",100,74,0,1,28.8,"Cloudy",278,3.4,"San Rafael Elementary School",14.7321213,121.1585205
+"388","2025-07-16T03:00:00Z",100,76,0.01,1,29.4,"Cloudy",319,1.8,"San Rafael Elementary School",14.7321213,121.1585205
+"389","2025-07-16T04:00:00Z",100,62,0,1,31,"Cloudy",290,2.8,"San Rafael Elementary School",14.7321213,121.1585205
+"390","2025-07-16T05:00:00Z",100,62,0,1,31.5,"Cloudy",277,4.2,"San Rafael Elementary School",14.7321213,121.1585205
+"391","2025-07-16T06:00:00Z",100,74,0,1,29.8,"Cloudy",271,4.7,"San Rafael Elementary School",14.7321213,121.1585205
+"392","2025-07-16T07:00:00Z",100,71,0,1,28.9,"Cloudy",279,4.4,"San Rafael Elementary School",14.7321213,121.1585205
+"393","2025-07-16T08:00:00Z",100,71,0,1,28.6,"Cloudy",277,2.6,"San Rafael Elementary School",14.7321213,121.1585205
+"394","2025-07-16T09:00:00Z",100,85,0.03,1,27,"Cloudy",121,0.3,"San Rafael Elementary School",14.7321213,121.1585205
+"395","2025-07-16T10:00:00Z",100,99,2.68,1,24.7,"Rain",88,2.6,"San Rafael Elementary School",14.7321213,121.1585205
+"396","2025-07-16T11:00:00Z",100,96,0.05,1,24.7,"Cloudy",353,3.6,"San Rafael Elementary School",14.7321213,121.1585205
+"397","2025-07-16T12:00:00Z",100,93,0.42,1,23.9,"Drizzle",358,2.5,"San Rafael Elementary School",14.7321213,121.1585205
+"398","2025-07-16T13:00:00Z",100,94,0.01,1,24.1,"Cloudy",160,0.3,"San Rafael Elementary School",14.7321213,121.1585205
+"399","2025-07-16T14:00:00Z",100,90,0,1,24.1,"Cloudy",258,0.2,"San Rafael Elementary School",14.7321213,121.1585205
+"400","2025-07-16T15:00:00Z",100,95,0.13,1,23.7,"Cloudy",139,0.9,"San Rafael Elementary School",14.7321213,121.1585205
+"401","2025-07-16T16:00:00Z",100,95,0.02,1,23.6,"Cloudy",83,1.4,"San Rafael Elementary School",14.7321213,121.1585205
+"402","2025-07-16T17:00:00Z",100,96,0,0,23.4,"Cloudy",110,1.2,"San Rafael Elementary School",14.7321213,121.1585205
+"403","2025-07-16T18:00:00Z",100,97,0,0,23.4,"Cloudy",131,1.2,"San Rafael Elementary School",14.7321213,121.1585205
+"404","2025-07-16T19:00:00Z",100,95,0,0,23.7,"Cloudy",138,0.9,"San Rafael Elementary School",14.7321213,121.1585205
+"405","2025-07-16T20:00:00Z",100,92,0,0,23.9,"Cloudy",139,0.8,"San Rafael Elementary School",14.7321213,121.1585205
+"406","2025-07-16T21:00:00Z",100,92,0,0,23.9,"Cloudy",89,0.6,"San Rafael Elementary School",14.7321213,121.1585205
+"407","2025-07-16T22:00:00Z",100,95,0.01,0,24.1,"Cloudy",145,0.2,"San Rafael Elementary School",14.7321213,121.1585205
+"408","2025-07-16T23:00:00Z",100,93,0.02,1,24.9,"Cloudy",318,0.5,"San Rafael Elementary School",14.7321213,121.1585205
+"409","2025-07-16T00:00:00Z",100,86,0,1,27.8,"Cloudy",322,2.4,"Southville 8 Elementary School",14.7601205,121.1505675
+"410","2025-07-16T01:00:00Z",100,82,0,1,28.6,"Cloudy",313,3,"Southville 8 Elementary School",14.7601205,121.1505675
+"411","2025-07-16T02:00:00Z",100,79,0,1,29,"Cloudy",299,2.3,"Southville 8 Elementary School",14.7601205,121.1505675
+"412","2025-07-16T03:00:00Z",100,77,0,1,29.8,"Cloudy",271,1.9,"Southville 8 Elementary School",14.7601205,121.1505675
+"413","2025-07-16T04:00:00Z",100,65,0,1,31.3,"Cloudy",282,2.6,"Southville 8 Elementary School",14.7601205,121.1505675
+"414","2025-07-16T05:00:00Z",100,67,0,1,31.4,"Cloudy",277,3.5,"Southville 8 Elementary School",14.7601205,121.1505675
+"415","2025-07-16T06:00:00Z",73,77,0,1,30.1,"Mostly Cloudy",263,4.4,"Southville 8 Elementary School",14.7601205,121.1505675
+"416","2025-07-16T07:00:00Z",100,75,0,1,28.9,"Cloudy",272,3.8,"Southville 8 Elementary School",14.7601205,121.1505675
+"417","2025-07-16T08:00:00Z",100,74,0,1,29.1,"Cloudy",250,2.7,"Southville 8 Elementary School",14.7601205,121.1505675
+"418","2025-07-16T09:00:00Z",100,83,0,1,27.9,"Cloudy",310,0.9,"Southville 8 Elementary School",14.7601205,121.1505675
+"419","2025-07-16T10:00:00Z",100,97,0.4,1,25.3,"Drizzle",65,2.7,"Southville 8 Elementary School",14.7601205,121.1505675
+"420","2025-07-16T11:00:00Z",100,94,0.05,1,23.9,"Cloudy",0,6.6,"Southville 8 Elementary School",14.7601205,121.1505675
+"421","2025-07-16T12:00:00Z",100,92,2.12,1,24.1,"Light Rain",358,4.3,"Southville 8 Elementary School",14.7601205,121.1505675
+"422","2025-07-16T13:00:00Z",100,95,0,1,23.8,"Cloudy",359,1.6,"Southville 8 Elementary School",14.7601205,121.1505675
+"423","2025-07-16T14:00:00Z",100,95,0,1,23.9,"Cloudy",344,1.3,"Southville 8 Elementary School",14.7601205,121.1505675
+"424","2025-07-16T15:00:00Z",100,96,0.02,1,24.1,"Cloudy",17,0.9,"Southville 8 Elementary School",14.7601205,121.1505675
+"425","2025-07-16T16:00:00Z",100,94,0.02,1,24.1,"Cloudy",25,1.8,"Southville 8 Elementary School",14.7601205,121.1505675
+"426","2025-07-16T17:00:00Z",100,96,0,0,23.8,"Cloudy",12,1.7,"Southville 8 Elementary School",14.7601205,121.1505675
+"427","2025-07-16T18:00:00Z",100,95,0,0,23.8,"Cloudy",13,1.4,"Southville 8 Elementary School",14.7601205,121.1505675
+"428","2025-07-16T19:00:00Z",100,93,0,0,24.2,"Cloudy",358,1.1,"Southville 8 Elementary School",14.7601205,121.1505675
+"429","2025-07-16T20:00:00Z",100,91,0,0,24.4,"Cloudy",357,0.9,"Southville 8 Elementary School",14.7601205,121.1505675
+"430","2025-07-16T21:00:00Z",100,95,0,0,23.9,"Cloudy",7,1.4,"Southville 8 Elementary School",14.7601205,121.1505675
+"431","2025-07-16T22:00:00Z",100,94,0.01,0,24.3,"Cloudy",339,1.3,"Southville 8 Elementary School",14.7601205,121.1505675
+"432","2025-07-16T23:00:00Z",100,92,0.02,1,25.5,"Cloudy",312,0.4,"Southville 8 Elementary School",14.7601205,121.1505675
+"433","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",326,2.1,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"434","2025-07-16T01:00:00Z",100,81,0.01,1,28.8,"Cloudy",316,2.8,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"435","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",280,2.4,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"436","2025-07-16T03:00:00Z",100,74,0,1,30,"Cloudy",278,1.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"437","2025-07-16T04:00:00Z",100,62,0,1,31.7,"Cloudy",280,2.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"438","2025-07-16T05:00:00Z",100,65,0,1,31.7,"Cloudy",272,3.8,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"439","2025-07-16T06:00:00Z",70,75,0,1,30.4,"Mostly Cloudy",265,4.4,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"440","2025-07-16T07:00:00Z",100,73,0,1,29.2,"Cloudy",272,3.9,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"441","2025-07-16T08:00:00Z",100,71,0,1,29.3,"Cloudy",254,2.7,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"442","2025-07-16T09:00:00Z",100,79,0.01,1,28.3,"Cloudy",287,0.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"443","2025-07-16T10:00:00Z",100,95,1.08,1,25.5,"Light Rain",81,2.9,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"444","2025-07-16T11:00:00Z",100,94,0.01,1,24.5,"Cloudy",1,4.8,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"445","2025-07-16T12:00:00Z",100,91,1.13,1,24.3,"Light Rain",6,4.3,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"446","2025-07-16T13:00:00Z",100,91,0,1,24.6,"Cloudy",25,0.2,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"447","2025-07-16T14:00:00Z",100,89,0,1,24.6,"Cloudy",334,0.5,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"448","2025-07-16T15:00:00Z",100,92,0.06,1,24.5,"Cloudy",80,0.7,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"449","2025-07-16T16:00:00Z",100,94,0.02,1,24.2,"Cloudy",49,1.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"450","2025-07-16T17:00:00Z",100,93,0,0,24.3,"Cloudy",46,1.1,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"451","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",61,0.8,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"452","2025-07-16T19:00:00Z",100,89,0,0,24.8,"Cloudy",41,0.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"453","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",30,0.6,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"454","2025-07-16T21:00:00Z",100,91,0,0,24.4,"Cloudy",28,1.1,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"455","2025-07-16T22:00:00Z",100,91,0.01,0,24.6,"Cloudy",1,0.8,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"456","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",338,0.3,"Southville 8‑C Elementary School",14.7560762,121.1451558
+"457","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",325,2.1,"Tagumpay Elementary School",14.7457126,121.1314735
+"458","2025-07-16T01:00:00Z",100,81,0,1,28.9,"Cloudy",316,2.6,"Tagumpay Elementary School",14.7457126,121.1314735
+"459","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",272,2.4,"Tagumpay Elementary School",14.7457126,121.1314735
+"460","2025-07-16T03:00:00Z",100,72,0,1,30.3,"Cloudy",275,2.4,"Tagumpay Elementary School",14.7457126,121.1314735
+"461","2025-07-16T04:00:00Z",100,62,0,1,31.8,"Cloudy",277,2.8,"Tagumpay Elementary School",14.7457126,121.1314735
+"462","2025-07-16T05:00:00Z",100,64,0,1,31.9,"Cloudy",266,3.7,"Tagumpay Elementary School",14.7457126,121.1314735
+"463","2025-07-16T06:00:00Z",53,75,0,1,30.4,"Partly Cloudy",265,4.1,"Tagumpay Elementary School",14.7457126,121.1314735
+"464","2025-07-16T07:00:00Z",100,70,0,1,29.6,"Cloudy",270,3.7,"Tagumpay Elementary School",14.7457126,121.1314735
+"465","2025-07-16T08:00:00Z",100,70,0,1,29.6,"Cloudy",250,3.2,"Tagumpay Elementary School",14.7457126,121.1314735
+"466","2025-07-16T09:00:00Z",100,76,0,1,28.8,"Cloudy",276,1.9,"Tagumpay Elementary School",14.7457126,121.1314735
+"467","2025-07-16T10:00:00Z",100,93,0.48,1,25.9,"Drizzle",68,2.2,"Tagumpay Elementary School",14.7457126,121.1314735
+"468","2025-07-16T11:00:00Z",100,93,0,1,24.3,"Cloudy",1,5.3,"Tagumpay Elementary School",14.7457126,121.1314735
+"469","2025-07-16T12:00:00Z",100,92,1.16,1,24.3,"Light Rain",6,4.8,"Tagumpay Elementary School",14.7457126,121.1314735
+"470","2025-07-16T13:00:00Z",100,94,0,1,24.1,"Cloudy",320,1.3,"Tagumpay Elementary School",14.7457126,121.1314735
+"471","2025-07-16T14:00:00Z",100,94,0,1,24.2,"Cloudy",329,1.1,"Tagumpay Elementary School",14.7457126,121.1314735
+"472","2025-07-16T15:00:00Z",100,94,0.04,1,24.3,"Cloudy",6,0.9,"Tagumpay Elementary School",14.7457126,121.1314735
+"473","2025-07-16T16:00:00Z",100,94,0.02,1,24.3,"Cloudy",21,1.6,"Tagumpay Elementary School",14.7457126,121.1314735
+"474","2025-07-16T17:00:00Z",100,94,0,0,24.2,"Cloudy",9,1.3,"Tagumpay Elementary School",14.7457126,121.1314735
+"475","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",1,0.8,"Tagumpay Elementary School",14.7457126,121.1314735
+"476","2025-07-16T19:00:00Z",100,91,0,0,24.6,"Cloudy",354,0.9,"Tagumpay Elementary School",14.7457126,121.1314735
+"477","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",353,0.8,"Tagumpay Elementary School",14.7457126,121.1314735
+"478","2025-07-16T21:00:00Z",100,94,0,0,24.1,"Cloudy",7,1.3,"Tagumpay Elementary School",14.7457126,121.1314735
+"479","2025-07-16T22:00:00Z",100,93,0.01,0,24.5,"Cloudy",344,1.2,"Tagumpay Elementary School",14.7457126,121.1314735
+"480","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",336,0.6,"Tagumpay Elementary School",14.7457126,121.1314735
+"481","2025-07-16T00:00:00Z",100,90,0,1,26.8,"Cloudy",319,2.6,"Wawa Elementary School",14.729144,121.186953
+"482","2025-07-16T01:00:00Z",100,88,0.01,1,27.4,"Cloudy",314,3.4,"Wawa Elementary School",14.729144,121.186953
+"483","2025-07-16T02:00:00Z",100,82,0,1,28.1,"Cloudy",288,3.4,"Wawa Elementary School",14.729144,121.186953
+"484","2025-07-16T03:00:00Z",100,90,0,1,27.6,"Cloudy",1,1.4,"Wawa Elementary School",14.729144,121.186953
+"485","2025-07-16T04:00:00Z",100,70,0,1,29.9,"Cloudy",297,2.6,"Wawa Elementary School",14.729144,121.186953
+"486","2025-07-16T05:00:00Z",100,69,0,1,30.6,"Cloudy",284,4.1,"Wawa Elementary School",14.729144,121.186953
+"487","2025-07-16T06:00:00Z",80,79,0,1,29.3,"Cloudy",272,4.9,"Wawa Elementary School",14.729144,121.186953
+"488","2025-07-16T07:00:00Z",100,80,0,1,27.9,"Cloudy",282,4,"Wawa Elementary School",14.729144,121.186953
+"489","2025-07-16T08:00:00Z",100,82,0,1,27.4,"Cloudy",307,2.1,"Wawa Elementary School",14.729144,121.186953
+"490","2025-07-16T09:00:00Z",100,93,0.09,1,25.9,"Cloudy",91,0.7,"Wawa Elementary School",14.729144,121.186953
+"491","2025-07-16T10:00:00Z",100,100,4.39,1,24.4,"Rain",70,2.2,"Wawa Elementary School",14.729144,121.186953
+"492","2025-07-16T11:00:00Z",100,98,0.19,1,24.4,"Cloudy",347,3.4,"Wawa Elementary School",14.729144,121.186953
+"493","2025-07-16T12:00:00Z",100,95,0.37,1,23.5,"Drizzle",340,1.9,"Wawa Elementary School",14.729144,121.186953
+"494","2025-07-16T13:00:00Z",100,96,0,1,23.4,"Cloudy",42,0.6,"Wawa Elementary School",14.729144,121.186953
+"495","2025-07-16T14:00:00Z",100,92,0,1,23.4,"Cloudy",355,0.8,"Wawa Elementary School",14.729144,121.186953
+"496","2025-07-16T15:00:00Z",100,93,0.16,1,23.4,"Cloudy",78,0.4,"Wawa Elementary School",14.729144,121.186953
+"497","2025-07-16T16:00:00Z",100,97,0.02,1,22.9,"Cloudy",53,1.6,"Wawa Elementary School",14.729144,121.186953
+"498","2025-07-16T17:00:00Z",100,94,0,0,23.3,"Cloudy",57,1.1,"Wawa Elementary School",14.729144,121.186953
+"499","2025-07-16T18:00:00Z",100,93,0,0,23.4,"Cloudy",75,0.8,"Wawa Elementary School",14.729144,121.186953
+"500","2025-07-16T19:00:00Z",100,93,0,0,23.5,"Cloudy",91,0.6,"Wawa Elementary School",14.729144,121.186953
+"501","2025-07-16T20:00:00Z",100,93,0,0,23.5,"Cloudy",71,0.4,"Wawa Elementary School",14.729144,121.186953
+"502","2025-07-16T21:00:00Z",100,93,0,0,23.4,"Cloudy",38,1,"Wawa Elementary School",14.729144,121.186953
+"503","2025-07-16T22:00:00Z",100,96,0.01,0,23.6,"Cloudy",351,0.6,"Wawa Elementary School",14.729144,121.186953
+"504","2025-07-16T23:00:00Z",100,95,0.02,1,24.6,"Cloudy",323,0.9,"Wawa Elementary School",14.729144,121.186953
+"505","2025-07-16T00:00:00Z",100,88,0,1,27.4,"Cloudy",331,2,"Burgos National High School",14.7147125,121.1385985
+"506","2025-07-16T01:00:00Z",100,83,0.01,1,28.1,"Cloudy",315,2.9,"Burgos National High School",14.7147125,121.1385985
+"507","2025-07-16T02:00:00Z",100,75,0,1,28.8,"Cloudy",261,3.8,"Burgos National High School",14.7147125,121.1385985
+"508","2025-07-16T03:00:00Z",100,69,0,1,30.1,"Cloudy",284,3.4,"Burgos National High School",14.7147125,121.1385985
+"509","2025-07-16T04:00:00Z",100,62,0,1,31.2,"Cloudy",279,3.2,"Burgos National High School",14.7147125,121.1385985
+"510","2025-07-16T05:00:00Z",100,66,0,1,31.3,"Cloudy",261,4.4,"Burgos National High School",14.7147125,121.1385985
+"511","2025-07-16T06:00:00Z",100,78,0,1,29.3,"Cloudy",271,4.2,"Burgos National High School",14.7147125,121.1385985
+"512","2025-07-16T07:00:00Z",100,72,0,1,28.8,"Cloudy",281,4.3,"Burgos National High School",14.7147125,121.1385985
+"513","2025-07-16T08:00:00Z",100,73,0,1,28.6,"Cloudy",252,2.8,"Burgos National High School",14.7147125,121.1385985
+"514","2025-07-16T09:00:00Z",100,82,0,1,27.5,"Cloudy",216,2,"Burgos National High School",14.7147125,121.1385985
+"515","2025-07-16T10:00:00Z",100,94,1.36,1,25.4,"Light Rain",80,2.8,"Burgos National High School",14.7147125,121.1385985
+"516","2025-07-16T11:00:00Z",100,93,0.01,1,25.3,"Cloudy",357,4.2,"Burgos National High School",14.7147125,121.1385985
+"517","2025-07-16T12:00:00Z",100,92,0.09,1,24.3,"Cloudy",15,1.9,"Burgos National High School",14.7147125,121.1385985
+"518","2025-07-16T13:00:00Z",100,94,0.02,1,24.1,"Cloudy",316,0.8,"Burgos National High School",14.7147125,121.1385985
+"519","2025-07-16T14:00:00Z",100,88,0,1,24.7,"Cloudy",348,0.3,"Burgos National High School",14.7147125,121.1385985
+"520","2025-07-16T15:00:00Z",100,89,0.1,1,24.6,"Cloudy",109,0.8,"Burgos National High School",14.7147125,121.1385985
+"521","2025-07-16T16:00:00Z",100,94,0.02,1,24.1,"Cloudy",82,1.2,"Burgos National High School",14.7147125,121.1385985
+"522","2025-07-16T17:00:00Z",100,91,0,0,24.3,"Cloudy",121,1.1,"Burgos National High School",14.7147125,121.1385985
+"523","2025-07-16T18:00:00Z",100,89,0,0,24.5,"Cloudy",140,0.9,"Burgos National High School",14.7147125,121.1385985
+"524","2025-07-16T19:00:00Z",100,88,0,0,24.6,"Cloudy",136,0.8,"Burgos National High School",14.7147125,121.1385985
+"525","2025-07-16T20:00:00Z",100,89,0,0,24.6,"Cloudy",149,0.7,"Burgos National High School",14.7147125,121.1385985
+"526","2025-07-16T21:00:00Z",100,89,0,0,24.5,"Cloudy",116,0.4,"Burgos National High School",14.7147125,121.1385985
+"527","2025-07-16T22:00:00Z",100,90,0.02,1,24.5,"Cloudy",125,0.3,"Burgos National High School",14.7147125,121.1385985
+"528","2025-07-16T23:00:00Z",100,90,0.02,1,25.3,"Cloudy",339,0.6,"Burgos National High School",14.7147125,121.1385985
+"529","2025-07-16T00:00:00Z",100,81,0,1,28.2,"Cloudy",328,1.9,"General Licerio Geronimo National High School",14.731947,121.1491519
+"530","2025-07-16T01:00:00Z",100,76,0.01,1,29,"Cloudy",319,2.7,"General Licerio Geronimo National High School",14.731947,121.1491519
+"531","2025-07-16T02:00:00Z",100,67,0,1,30,"Cloudy",266,3.2,"General Licerio Geronimo National High School",14.731947,121.1491519
+"532","2025-07-16T03:00:00Z",100,65,0.01,1,30.8,"Cloudy",288,2.3,"General Licerio Geronimo National High School",14.731947,121.1491519
+"533","2025-07-16T04:00:00Z",100,55,0,1,32.3,"Cloudy",281,2.8,"General Licerio Geronimo National High School",14.731947,121.1491519
+"534","2025-07-16T05:00:00Z",100,58,0,1,32.3,"Cloudy",268,3.9,"General Licerio Geronimo National High School",14.731947,121.1491519
+"535","2025-07-16T06:00:00Z",100,68,0,1,30.9,"Cloudy",269,4.2,"General Licerio Geronimo National High School",14.731947,121.1491519
+"536","2025-07-16T07:00:00Z",100,63,0,1,30.4,"Cloudy",276,4.2,"General Licerio Geronimo National High School",14.731947,121.1491519
+"537","2025-07-16T08:00:00Z",100,63,0,1,30.3,"Cloudy",258,2.9,"General Licerio Geronimo National High School",14.731947,121.1491519
+"538","2025-07-16T09:00:00Z",100,69,0.01,1,29.4,"Cloudy",254,1.4,"General Licerio Geronimo National High School",14.731947,121.1491519
+"539","2025-07-16T10:00:00Z",100,87,1.55,1,26.6,"Light Rain",88,2.7,"General Licerio Geronimo National High School",14.731947,121.1491519
+"540","2025-07-16T11:00:00Z",100,86,0.01,1,26,"Cloudy",0,4.1,"General Licerio Geronimo National High School",14.731947,121.1491519
+"541","2025-07-16T12:00:00Z",100,83,0.43,1,25.5,"Drizzle",11,3.4,"General Licerio Geronimo National High School",14.731947,121.1491519
+"542","2025-07-16T13:00:00Z",100,84,0.01,1,25.3,"Cloudy",307,0.3,"General Licerio Geronimo National High School",14.731947,121.1491519
+"543","2025-07-16T14:00:00Z",100,83,0,1,25.6,"Cloudy",304,0.2,"General Licerio Geronimo National High School",14.731947,121.1491519
+"544","2025-07-16T15:00:00Z",100,84,0.09,1,25.4,"Cloudy",126,0.7,"General Licerio Geronimo National High School",14.731947,121.1491519
+"545","2025-07-16T16:00:00Z",100,84,0.02,1,25.4,"Cloudy",71,1.1,"General Licerio Geronimo National High School",14.731947,121.1491519
+"546","2025-07-16T17:00:00Z",100,84,0,0,25.4,"Cloudy",101,0.9,"General Licerio Geronimo National High School",14.731947,121.1491519
+"547","2025-07-16T18:00:00Z",100,85,0,0,25.4,"Cloudy",124,0.8,"General Licerio Geronimo National High School",14.731947,121.1491519
+"548","2025-07-16T19:00:00Z",100,84,0,0,25.4,"Cloudy",115,0.5,"General Licerio Geronimo National High School",14.731947,121.1491519
+"549","2025-07-16T20:00:00Z",100,85,0,0,25.4,"Cloudy",121,0.4,"General Licerio Geronimo National High School",14.731947,121.1491519
+"550","2025-07-16T21:00:00Z",100,85,0,0,25.3,"Cloudy",70,0.6,"General Licerio Geronimo National High School",14.731947,121.1491519
+"551","2025-07-16T22:00:00Z",100,86,0.01,0,25.3,"Cloudy",66,0.3,"General Licerio Geronimo National High School",14.731947,121.1491519
+"552","2025-07-16T23:00:00Z",100,84,0.02,1,26,"Cloudy",341,0.4,"General Licerio Geronimo National High School",14.731947,121.1491519
+"553","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",326,2.1,"Gulod National High School",14.7444976,121.1551122
+"554","2025-07-16T01:00:00Z",100,81,0.01,1,28.8,"Cloudy",316,2.8,"Gulod National High School",14.7444976,121.1551122
+"555","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",280,2.4,"Gulod National High School",14.7444976,121.1551122
+"556","2025-07-16T03:00:00Z",100,74,0,1,30,"Cloudy",278,1.6,"Gulod National High School",14.7444976,121.1551122
+"557","2025-07-16T04:00:00Z",100,62,0,1,31.7,"Cloudy",280,2.6,"Gulod National High School",14.7444976,121.1551122
+"558","2025-07-16T05:00:00Z",100,65,0,1,31.7,"Cloudy",272,3.8,"Gulod National High School",14.7444976,121.1551122
+"559","2025-07-16T06:00:00Z",70,75,0,1,30.4,"Mostly Cloudy",265,4.4,"Gulod National High School",14.7444976,121.1551122
+"560","2025-07-16T07:00:00Z",100,73,0,1,29.2,"Cloudy",272,3.9,"Gulod National High School",14.7444976,121.1551122
+"561","2025-07-16T08:00:00Z",100,71,0,1,29.3,"Cloudy",254,2.7,"Gulod National High School",14.7444976,121.1551122
+"562","2025-07-16T09:00:00Z",100,79,0.01,1,28.3,"Cloudy",287,0.6,"Gulod National High School",14.7444976,121.1551122
+"563","2025-07-16T10:00:00Z",100,95,1.08,1,25.5,"Light Rain",81,2.9,"Gulod National High School",14.7444976,121.1551122
+"564","2025-07-16T11:00:00Z",100,94,0.01,1,24.5,"Cloudy",1,4.8,"Gulod National High School",14.7444976,121.1551122
+"565","2025-07-16T12:00:00Z",100,91,1.13,1,24.3,"Light Rain",6,4.3,"Gulod National High School",14.7444976,121.1551122
+"566","2025-07-16T13:00:00Z",100,91,0,1,24.6,"Cloudy",25,0.2,"Gulod National High School",14.7444976,121.1551122
+"567","2025-07-16T14:00:00Z",100,89,0,1,24.6,"Cloudy",334,0.5,"Gulod National High School",14.7444976,121.1551122
+"568","2025-07-16T15:00:00Z",100,92,0.06,1,24.5,"Cloudy",80,0.7,"Gulod National High School",14.7444976,121.1551122
+"569","2025-07-16T16:00:00Z",100,94,0.02,1,24.2,"Cloudy",49,1.6,"Gulod National High School",14.7444976,121.1551122
+"570","2025-07-16T17:00:00Z",100,93,0,0,24.3,"Cloudy",46,1.1,"Gulod National High School",14.7444976,121.1551122
+"571","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",61,0.8,"Gulod National High School",14.7444976,121.1551122
+"572","2025-07-16T19:00:00Z",100,89,0,0,24.8,"Cloudy",41,0.6,"Gulod National High School",14.7444976,121.1551122
+"573","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",30,0.6,"Gulod National High School",14.7444976,121.1551122
+"574","2025-07-16T21:00:00Z",100,91,0,0,24.4,"Cloudy",28,1.1,"Gulod National High School",14.7444976,121.1551122
+"575","2025-07-16T22:00:00Z",100,91,0.01,0,24.6,"Cloudy",1,0.8,"Gulod National High School",14.7444976,121.1551122
+"576","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",338,0.3,"Gulod National High School",14.7444976,121.1551122
+"577","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",326,2.1,"Kasiglahan Village National High School",14.7492647,121.1415463
+"578","2025-07-16T01:00:00Z",100,81,0.01,1,28.8,"Cloudy",316,2.8,"Kasiglahan Village National High School",14.7492647,121.1415463
+"579","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",280,2.4,"Kasiglahan Village National High School",14.7492647,121.1415463
+"580","2025-07-16T03:00:00Z",100,74,0,1,30,"Cloudy",278,1.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"581","2025-07-16T04:00:00Z",100,62,0,1,31.7,"Cloudy",280,2.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"582","2025-07-16T05:00:00Z",100,65,0,1,31.7,"Cloudy",272,3.8,"Kasiglahan Village National High School",14.7492647,121.1415463
+"583","2025-07-16T06:00:00Z",70,75,0,1,30.4,"Mostly Cloudy",265,4.4,"Kasiglahan Village National High School",14.7492647,121.1415463
+"584","2025-07-16T07:00:00Z",100,73,0,1,29.2,"Cloudy",272,3.9,"Kasiglahan Village National High School",14.7492647,121.1415463
+"585","2025-07-16T08:00:00Z",100,71,0,1,29.3,"Cloudy",254,2.7,"Kasiglahan Village National High School",14.7492647,121.1415463
+"586","2025-07-16T09:00:00Z",100,79,0.01,1,28.3,"Cloudy",287,0.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"587","2025-07-16T10:00:00Z",100,95,1.08,1,25.5,"Light Rain",81,2.9,"Kasiglahan Village National High School",14.7492647,121.1415463
+"588","2025-07-16T11:00:00Z",100,94,0.01,1,24.5,"Cloudy",1,4.8,"Kasiglahan Village National High School",14.7492647,121.1415463
+"589","2025-07-16T12:00:00Z",100,91,1.13,1,24.3,"Light Rain",6,4.3,"Kasiglahan Village National High School",14.7492647,121.1415463
+"590","2025-07-16T13:00:00Z",100,91,0,1,24.6,"Cloudy",25,0.2,"Kasiglahan Village National High School",14.7492647,121.1415463
+"591","2025-07-16T14:00:00Z",100,89,0,1,24.6,"Cloudy",334,0.5,"Kasiglahan Village National High School",14.7492647,121.1415463
+"592","2025-07-16T15:00:00Z",100,92,0.06,1,24.5,"Cloudy",80,0.7,"Kasiglahan Village National High School",14.7492647,121.1415463
+"593","2025-07-16T16:00:00Z",100,94,0.02,1,24.2,"Cloudy",49,1.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"594","2025-07-16T17:00:00Z",100,93,0,0,24.3,"Cloudy",46,1.1,"Kasiglahan Village National High School",14.7492647,121.1415463
+"595","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",61,0.8,"Kasiglahan Village National High School",14.7492647,121.1415463
+"596","2025-07-16T19:00:00Z",100,89,0,0,24.8,"Cloudy",41,0.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"597","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",30,0.6,"Kasiglahan Village National High School",14.7492647,121.1415463
+"598","2025-07-16T21:00:00Z",100,91,0,0,24.4,"Cloudy",28,1.1,"Kasiglahan Village National High School",14.7492647,121.1415463
+"599","2025-07-16T22:00:00Z",100,91,0.01,0,24.6,"Cloudy",1,0.8,"Kasiglahan Village National High School",14.7492647,121.1415463
+"600","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",338,0.3,"Kasiglahan Village National High School",14.7492647,121.1415463
+"601","2025-07-16T00:00:00Z",100,81,0,1,28.2,"Cloudy",328,1.9,"Manggahan National High School",14.7233969,121.143161
+"602","2025-07-16T01:00:00Z",100,76,0.01,1,29,"Cloudy",319,2.7,"Manggahan National High School",14.7233969,121.143161
+"603","2025-07-16T02:00:00Z",100,67,0,1,30,"Cloudy",266,3.2,"Manggahan National High School",14.7233969,121.143161
+"604","2025-07-16T03:00:00Z",100,65,0.01,1,30.8,"Cloudy",288,2.3,"Manggahan National High School",14.7233969,121.143161
+"605","2025-07-16T04:00:00Z",100,55,0,1,32.3,"Cloudy",281,2.8,"Manggahan National High School",14.7233969,121.143161
+"606","2025-07-16T05:00:00Z",100,58,0,1,32.3,"Cloudy",268,3.9,"Manggahan National High School",14.7233969,121.143161
+"607","2025-07-16T06:00:00Z",100,68,0,1,30.9,"Cloudy",269,4.2,"Manggahan National High School",14.7233969,121.143161
+"608","2025-07-16T07:00:00Z",100,63,0,1,30.4,"Cloudy",276,4.2,"Manggahan National High School",14.7233969,121.143161
+"609","2025-07-16T08:00:00Z",100,63,0,1,30.3,"Cloudy",258,2.9,"Manggahan National High School",14.7233969,121.143161
+"610","2025-07-16T09:00:00Z",100,69,0.01,1,29.4,"Cloudy",254,1.4,"Manggahan National High School",14.7233969,121.143161
+"611","2025-07-16T10:00:00Z",100,87,1.55,1,26.6,"Light Rain",88,2.7,"Manggahan National High School",14.7233969,121.143161
+"612","2025-07-16T11:00:00Z",100,86,0.01,1,26,"Cloudy",0,4.1,"Manggahan National High School",14.7233969,121.143161
+"613","2025-07-16T12:00:00Z",100,83,0.43,1,25.5,"Drizzle",11,3.4,"Manggahan National High School",14.7233969,121.143161
+"614","2025-07-16T13:00:00Z",100,84,0.01,1,25.3,"Cloudy",307,0.3,"Manggahan National High School",14.7233969,121.143161
+"615","2025-07-16T14:00:00Z",100,83,0,1,25.6,"Cloudy",304,0.2,"Manggahan National High School",14.7233969,121.143161
+"616","2025-07-16T15:00:00Z",100,84,0.09,1,25.4,"Cloudy",126,0.7,"Manggahan National High School",14.7233969,121.143161
+"617","2025-07-16T16:00:00Z",100,84,0.02,1,25.4,"Cloudy",71,1.1,"Manggahan National High School",14.7233969,121.143161
+"618","2025-07-16T17:00:00Z",100,84,0,0,25.4,"Cloudy",101,0.9,"Manggahan National High School",14.7233969,121.143161
+"619","2025-07-16T18:00:00Z",100,85,0,0,25.4,"Cloudy",124,0.8,"Manggahan National High School",14.7233969,121.143161
+"620","2025-07-16T19:00:00Z",100,84,0,0,25.4,"Cloudy",115,0.5,"Manggahan National High School",14.7233969,121.143161
+"621","2025-07-16T20:00:00Z",100,85,0,0,25.4,"Cloudy",121,0.4,"Manggahan National High School",14.7233969,121.143161
+"622","2025-07-16T21:00:00Z",100,85,0,0,25.3,"Cloudy",70,0.6,"Manggahan National High School",14.7233969,121.143161
+"623","2025-07-16T22:00:00Z",100,86,0.01,0,25.3,"Cloudy",66,0.3,"Manggahan National High School",14.7233969,121.143161
+"624","2025-07-16T23:00:00Z",100,84,0.02,1,26,"Cloudy",341,0.4,"Manggahan National High School",14.7233969,121.143161
+"625","2025-07-16T00:00:00Z",100,87,0,1,27.1,"Cloudy",311,2.2,"Mascap National High School",14.7623644,121.183592
+"626","2025-07-16T01:00:00Z",100,83,0,1,27.9,"Cloudy",299,2.8,"Mascap National High School",14.7623644,121.183592
+"627","2025-07-16T02:00:00Z",100,80,0,1,28.6,"Cloudy",292,2.7,"Mascap National High School",14.7623644,121.183592
+"628","2025-07-16T03:00:00Z",100,83,0,1,28.4,"Cloudy",243,1.5,"Mascap National High School",14.7623644,121.183592
+"629","2025-07-16T04:00:00Z",100,69,0,1,30.3,"Cloudy",277,2.1,"Mascap National High School",14.7623644,121.183592
+"630","2025-07-16T05:00:00Z",100,70,0,1,30.4,"Cloudy",287,3.1,"Mascap National High School",14.7623644,121.183592
+"631","2025-07-16T06:00:00Z",89,78,0,1,29.1,"Cloudy",264,4.2,"Mascap National High School",14.7623644,121.183592
+"632","2025-07-16T07:00:00Z",100,78,0,1,28.3,"Cloudy",278,3.6,"Mascap National High School",14.7623644,121.183592
+"633","2025-07-16T08:00:00Z",100,83,0,1,27.5,"Cloudy",321,0.9,"Mascap National High School",14.7623644,121.183592
+"634","2025-07-16T09:00:00Z",100,89,0.01,1,26.6,"Cloudy",192,0.4,"Mascap National High School",14.7623644,121.183592
+"635","2025-07-16T10:00:00Z",100,98,1.19,1,24.7,"Light Rain",82,2.3,"Mascap National High School",14.7623644,121.183592
+"636","2025-07-16T11:00:00Z",100,94,0.27,1,23.8,"Drizzle",358,4.7,"Mascap National High School",14.7623644,121.183592
+"637","2025-07-16T12:00:00Z",100,93,1.6,1,23.7,"Light Rain",2,2.6,"Mascap National High School",14.7623644,121.183592
+"638","2025-07-16T13:00:00Z",32,95,0,1,23.3,"Mostly Clear",65,1.9,"Mascap National High School",14.7623644,121.183592
+"639","2025-07-16T14:00:00Z",100,96,0,1,23.3,"Cloudy",39,1.6,"Mascap National High School",14.7623644,121.183592
+"640","2025-07-16T15:00:00Z",100,97,0.04,1,23.3,"Cloudy",71,1.3,"Mascap National High School",14.7623644,121.183592
+"641","2025-07-16T16:00:00Z",100,95,0.02,1,23.4,"Cloudy",47,1.9,"Mascap National High School",14.7623644,121.183592
+"642","2025-07-16T17:00:00Z",100,97,0,0,23.2,"Cloudy",45,1.8,"Mascap National High School",14.7623644,121.183592
+"643","2025-07-16T18:00:00Z",100,97,0,0,23.3,"Cloudy",53,1.8,"Mascap National High School",14.7623644,121.183592
+"644","2025-07-16T19:00:00Z",100,95,0,0,23.6,"Cloudy",37,1.3,"Mascap National High School",14.7623644,121.183592
+"645","2025-07-16T20:00:00Z",100,94,0,0,23.7,"Cloudy",26,1.2,"Mascap National High School",14.7623644,121.183592
+"646","2025-07-16T21:00:00Z",100,97,0,0,23.2,"Cloudy",28,1.6,"Mascap National High School",14.7623644,121.183592
+"647","2025-07-16T22:00:00Z",100,96,0.01,0,23.8,"Cloudy",7,1.1,"Mascap National High School",14.7623644,121.183592
+"648","2025-07-16T23:00:00Z",100,94,0.01,0,24.9,"Cloudy",290,0.4,"Mascap National High School",14.7623644,121.183592
+"649","2025-07-16T00:00:00Z",100,88,0,1,26.4,"Cloudy",306,2.4,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"650","2025-07-16T01:00:00Z",100,86,0,1,27,"Cloudy",290,2.9,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"651","2025-07-16T02:00:00Z",100,82,0,1,27.7,"Cloudy",284,3.1,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"652","2025-07-16T03:00:00Z",100,81,0,0,28.2,"Cloudy",263,2.9,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"653","2025-07-16T04:00:00Z",100,73,0,0,29.2,"Cloudy",268,2.8,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"654","2025-07-16T05:00:00Z",100,73,0,1,29.4,"Cloudy",277,3.3,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"655","2025-07-16T06:00:00Z",100,82,0,1,27.9,"Cloudy",259,4.1,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"656","2025-07-16T07:00:00Z",100,82,0,1,27.4,"Cloudy",280,3.8,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"657","2025-07-16T08:00:00Z",100,85,0,1,26.6,"Cloudy",314,1.4,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"658","2025-07-16T09:00:00Z",100,90,1.43,1,25.7,"Light Rain",263,1.1,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"659","2025-07-16T10:00:00Z",75,98,0.05,1,24.3,"Cloudy",78,1,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"660","2025-07-16T11:00:00Z",100,94,0.49,1,23.1,"Drizzle",353,5.3,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"661","2025-07-16T12:00:00Z",100,94,1.95,1,23.2,"Light Rain",5,2.6,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"662","2025-07-16T13:00:00Z",22,94,0,1,22.9,"Mostly Clear",33,2.4,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"663","2025-07-16T14:00:00Z",100,95,0,1,22.8,"Cloudy",24,1.9,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"664","2025-07-16T15:00:00Z",100,96,0.01,1,22.8,"Cloudy",38,1.6,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"665","2025-07-16T16:00:00Z",100,96,0.01,0,23.1,"Cloudy",27,2,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"666","2025-07-16T17:00:00Z",100,96,0,0,22.9,"Cloudy",31,2,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"667","2025-07-16T18:00:00Z",100,97,0,0,22.9,"Cloudy",32,2,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"668","2025-07-16T19:00:00Z",100,97,0,0,22.8,"Cloudy",19,1.8,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"669","2025-07-16T20:00:00Z",100,97,0,0,22.8,"Cloudy",15,1.8,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"670","2025-07-16T21:00:00Z",100,96,0,0,22.9,"Cloudy",18,1.9,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"671","2025-07-16T22:00:00Z",100,96,0.01,0,23.3,"Cloudy",359,1.5,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"672","2025-07-16T23:00:00Z",100,95,0.01,0,24.5,"Cloudy",286,0.8,"Mascap National High School Puray Annex",14.7757433,121.2078777
+"673","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",325,2.1,"Montalban Heights National High School",14.7476387,121.1243574
+"674","2025-07-16T01:00:00Z",100,81,0,1,28.9,"Cloudy",316,2.6,"Montalban Heights National High School",14.7476387,121.1243574
+"675","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",272,2.4,"Montalban Heights National High School",14.7476387,121.1243574
+"676","2025-07-16T03:00:00Z",100,72,0,1,30.3,"Cloudy",275,2.4,"Montalban Heights National High School",14.7476387,121.1243574
+"677","2025-07-16T04:00:00Z",100,62,0,1,31.8,"Cloudy",277,2.8,"Montalban Heights National High School",14.7476387,121.1243574
+"678","2025-07-16T05:00:00Z",100,64,0,1,31.9,"Cloudy",266,3.7,"Montalban Heights National High School",14.7476387,121.1243574
+"679","2025-07-16T06:00:00Z",53,75,0,1,30.4,"Partly Cloudy",265,4.1,"Montalban Heights National High School",14.7476387,121.1243574
+"680","2025-07-16T07:00:00Z",100,70,0,1,29.6,"Cloudy",270,3.7,"Montalban Heights National High School",14.7476387,121.1243574
+"681","2025-07-16T08:00:00Z",100,70,0,1,29.6,"Cloudy",250,3.2,"Montalban Heights National High School",14.7476387,121.1243574
+"682","2025-07-16T09:00:00Z",100,76,0,1,28.8,"Cloudy",276,1.9,"Montalban Heights National High School",14.7476387,121.1243574
+"683","2025-07-16T10:00:00Z",100,93,0.48,1,25.9,"Drizzle",68,2.2,"Montalban Heights National High School",14.7476387,121.1243574
+"684","2025-07-16T11:00:00Z",100,93,0,1,24.3,"Cloudy",1,5.3,"Montalban Heights National High School",14.7476387,121.1243574
+"685","2025-07-16T12:00:00Z",100,92,1.16,1,24.3,"Light Rain",6,4.8,"Montalban Heights National High School",14.7476387,121.1243574
+"686","2025-07-16T13:00:00Z",100,94,0,1,24.1,"Cloudy",320,1.3,"Montalban Heights National High School",14.7476387,121.1243574
+"687","2025-07-16T14:00:00Z",100,94,0,1,24.2,"Cloudy",329,1.1,"Montalban Heights National High School",14.7476387,121.1243574
+"688","2025-07-16T15:00:00Z",100,94,0.04,1,24.3,"Cloudy",6,0.9,"Montalban Heights National High School",14.7476387,121.1243574
+"689","2025-07-16T16:00:00Z",100,94,0.02,1,24.3,"Cloudy",21,1.6,"Montalban Heights National High School",14.7476387,121.1243574
+"690","2025-07-16T17:00:00Z",100,94,0,0,24.2,"Cloudy",9,1.3,"Montalban Heights National High School",14.7476387,121.1243574
+"691","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",1,0.8,"Montalban Heights National High School",14.7476387,121.1243574
+"692","2025-07-16T19:00:00Z",100,91,0,0,24.6,"Cloudy",354,0.9,"Montalban Heights National High School",14.7476387,121.1243574
+"693","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",353,0.8,"Montalban Heights National High School",14.7476387,121.1243574
+"694","2025-07-16T21:00:00Z",100,94,0,0,24.1,"Cloudy",7,1.3,"Montalban Heights National High School",14.7476387,121.1243574
+"695","2025-07-16T22:00:00Z",100,93,0.01,0,24.5,"Cloudy",344,1.2,"Montalban Heights National High School",14.7476387,121.1243574
+"696","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",336,0.6,"Montalban Heights National High School",14.7476387,121.1243574
+"697","2025-07-16T00:00:00Z",100,86,0,1,27.8,"Cloudy",322,2.4,"San Isidro National High School",14.7610434,121.1530402
+"698","2025-07-16T01:00:00Z",100,82,0,1,28.6,"Cloudy",313,3,"San Isidro National High School",14.7610434,121.1530402
+"699","2025-07-16T02:00:00Z",100,79,0,1,29,"Cloudy",299,2.3,"San Isidro National High School",14.7610434,121.1530402
+"700","2025-07-16T03:00:00Z",100,77,0,1,29.8,"Cloudy",271,1.9,"San Isidro National High School",14.7610434,121.1530402
+"701","2025-07-16T04:00:00Z",100,65,0,1,31.3,"Cloudy",282,2.6,"San Isidro National High School",14.7610434,121.1530402
+"702","2025-07-16T05:00:00Z",100,67,0,1,31.4,"Cloudy",277,3.5,"San Isidro National High School",14.7610434,121.1530402
+"703","2025-07-16T06:00:00Z",73,77,0,1,30.1,"Mostly Cloudy",263,4.4,"San Isidro National High School",14.7610434,121.1530402
+"704","2025-07-16T07:00:00Z",100,75,0,1,28.9,"Cloudy",272,3.8,"San Isidro National High School",14.7610434,121.1530402
+"705","2025-07-16T08:00:00Z",100,74,0,1,29.1,"Cloudy",250,2.7,"San Isidro National High School",14.7610434,121.1530402
+"706","2025-07-16T09:00:00Z",100,83,0,1,27.9,"Cloudy",310,0.9,"San Isidro National High School",14.7610434,121.1530402
+"707","2025-07-16T10:00:00Z",100,97,0.4,1,25.3,"Drizzle",65,2.7,"San Isidro National High School",14.7610434,121.1530402
+"708","2025-07-16T11:00:00Z",100,94,0.05,1,23.9,"Cloudy",0,6.6,"San Isidro National High School",14.7610434,121.1530402
+"709","2025-07-16T12:00:00Z",100,92,2.12,1,24.1,"Light Rain",358,4.3,"San Isidro National High School",14.7610434,121.1530402
+"710","2025-07-16T13:00:00Z",100,95,0,1,23.8,"Cloudy",359,1.6,"San Isidro National High School",14.7610434,121.1530402
+"711","2025-07-16T14:00:00Z",100,95,0,1,23.9,"Cloudy",344,1.3,"San Isidro National High School",14.7610434,121.1530402
+"712","2025-07-16T15:00:00Z",100,96,0.02,1,24.1,"Cloudy",17,0.9,"San Isidro National High School",14.7610434,121.1530402
+"713","2025-07-16T16:00:00Z",100,94,0.02,1,24.1,"Cloudy",25,1.8,"San Isidro National High School",14.7610434,121.1530402
+"714","2025-07-16T17:00:00Z",100,96,0,0,23.8,"Cloudy",12,1.7,"San Isidro National High School",14.7610434,121.1530402
+"715","2025-07-16T18:00:00Z",100,95,0,0,23.8,"Cloudy",13,1.4,"San Isidro National High School",14.7610434,121.1530402
+"716","2025-07-16T19:00:00Z",100,93,0,0,24.2,"Cloudy",358,1.1,"San Isidro National High School",14.7610434,121.1530402
+"717","2025-07-16T20:00:00Z",100,91,0,0,24.4,"Cloudy",357,0.9,"San Isidro National High School",14.7610434,121.1530402
+"718","2025-07-16T21:00:00Z",100,95,0,0,23.9,"Cloudy",7,1.4,"San Isidro National High School",14.7610434,121.1530402
+"719","2025-07-16T22:00:00Z",100,94,0.01,0,24.3,"Cloudy",339,1.3,"San Isidro National High School",14.7610434,121.1530402
+"720","2025-07-16T23:00:00Z",100,92,0.02,1,25.5,"Cloudy",312,0.4,"San Isidro National High School",14.7610434,121.1530402
+"721","2025-07-16T00:00:00Z",100,88,0,1,27.4,"Cloudy",324,2.2,"San Isidro Senior High School",14.7487787,121.1582518
+"722","2025-07-16T01:00:00Z",100,86,0,1,28.1,"Cloudy",314,2.9,"San Isidro Senior High School",14.7487787,121.1582518
+"723","2025-07-16T02:00:00Z",100,80,0,1,28.8,"Cloudy",294,2.6,"San Isidro Senior High School",14.7487787,121.1582518
+"724","2025-07-16T03:00:00Z",100,81,0.01,1,29.3,"Cloudy",294,0.7,"San Isidro Senior High School",14.7487787,121.1582518
+"725","2025-07-16T04:00:00Z",100,67,0,1,30.8,"Cloudy",289,2.3,"San Isidro Senior High School",14.7487787,121.1582518
+"726","2025-07-16T05:00:00Z",100,68,0,1,31.1,"Cloudy",282,3.6,"San Isidro Senior High School",14.7487787,121.1582518
+"727","2025-07-16T06:00:00Z",80,80,0,1,29.4,"Cloudy",268,4.5,"San Isidro Senior High School",14.7487787,121.1582518
+"728","2025-07-16T07:00:00Z",100,78,0,1,28.4,"Cloudy",277,3.8,"San Isidro Senior High School",14.7487787,121.1582518
+"729","2025-07-16T08:00:00Z",100,78,0,1,28.3,"Cloudy",275,1.8,"San Isidro Senior High School",14.7487787,121.1582518
+"730","2025-07-16T09:00:00Z",100,86,0.02,1,27.1,"Cloudy",89,0.8,"San Isidro Senior High School",14.7487787,121.1582518
+"731","2025-07-16T10:00:00Z",100,98,1.96,1,24.9,"Light Rain",87,3,"San Isidro Senior High School",14.7487787,121.1582518
+"732","2025-07-16T11:00:00Z",100,96,0.05,1,24.4,"Cloudy",359,3.8,"San Isidro Senior High School",14.7487787,121.1582518
+"733","2025-07-16T12:00:00Z",100,93,1.02,1,23.9,"Light Rain",4,3.3,"San Isidro Senior High School",14.7487787,121.1582518
+"734","2025-07-16T13:00:00Z",100,96,0,1,23.8,"Cloudy",118,1.3,"San Isidro Senior High School",14.7487787,121.1582518
+"735","2025-07-16T14:00:00Z",100,90,0,1,24.1,"Cloudy",66,0.6,"San Isidro Senior High School",14.7487787,121.1582518
+"736","2025-07-16T15:00:00Z",100,95,0.09,1,23.7,"Cloudy",109,1.2,"San Isidro Senior High School",14.7487787,121.1582518
+"737","2025-07-16T16:00:00Z",100,96,0.02,1,23.4,"Cloudy",69,1.8,"San Isidro Senior High School",14.7487787,121.1582518
+"738","2025-07-16T17:00:00Z",100,94,0,0,23.6,"Cloudy",74,1.5,"San Isidro Senior High School",14.7487787,121.1582518
+"739","2025-07-16T18:00:00Z",100,94,0,0,23.5,"Cloudy",92,1.4,"San Isidro Senior High School",14.7487787,121.1582518
+"740","2025-07-16T19:00:00Z",100,91,0,0,24.2,"Cloudy",91,1,"San Isidro Senior High School",14.7487787,121.1582518
+"741","2025-07-16T20:00:00Z",100,91,0,0,24.3,"Cloudy",79,0.8,"San Isidro Senior High School",14.7487787,121.1582518
+"742","2025-07-16T21:00:00Z",100,92,0,0,24,"Cloudy",54,1.1,"San Isidro Senior High School",14.7487787,121.1582518
+"743","2025-07-16T22:00:00Z",100,93,0.01,0,24.2,"Cloudy",38,0.6,"San Isidro Senior High School",14.7487787,121.1582518
+"744","2025-07-16T23:00:00Z",100,93,0.02,1,25.2,"Cloudy",315,0.2,"San Isidro Senior High School",14.7487787,121.1582518
+"745","2025-07-16T00:00:00Z",100,80,0,1,28.5,"Cloudy",330,1.8,"San Jose National High School",14.7288251,121.1347038
+"746","2025-07-16T01:00:00Z",100,73,0.01,1,29.7,"Cloudy",315,2.4,"San Jose National High School",14.7288251,121.1347038
+"747","2025-07-16T02:00:00Z",100,65,0,1,30.5,"Cloudy",263,2.9,"San Jose National High School",14.7288251,121.1347038
+"748","2025-07-16T03:00:00Z",100,62,0,1,31.3,"Cloudy",281,2.6,"San Jose National High School",14.7288251,121.1347038
+"749","2025-07-16T04:00:00Z",100,54,0,1,32.6,"Cloudy",278,2.7,"San Jose National High School",14.7288251,121.1347038
+"750","2025-07-16T05:00:00Z",100,57,0,1,32.7,"Cloudy",263,3.6,"San Jose National High School",14.7288251,121.1347038
+"751","2025-07-16T06:00:00Z",50,68,0,1,31.1,"Partly Cloudy",267,3.8,"San Jose National High School",14.7288251,121.1347038
+"752","2025-07-16T07:00:00Z",100,61,0,1,30.9,"Cloudy",275,3.7,"San Jose National High School",14.7288251,121.1347038
+"753","2025-07-16T08:00:00Z",100,62,0,1,30.7,"Cloudy",251,2.9,"San Jose National High School",14.7288251,121.1347038
+"754","2025-07-16T09:00:00Z",100,66,0.01,1,30.1,"Cloudy",263,2.3,"San Jose National High School",14.7288251,121.1347038
+"755","2025-07-16T10:00:00Z",100,82,0.73,1,27.5,"Light Rain",76,2.2,"San Jose National High School",14.7288251,121.1347038
+"756","2025-07-16T11:00:00Z",100,84,0.01,1,26.1,"Cloudy",2,4.4,"San Jose National High School",14.7288251,121.1347038
+"757","2025-07-16T12:00:00Z",100,81,0.39,1,25.9,"Drizzle",10,3.8,"San Jose National High School",14.7288251,121.1347038
+"758","2025-07-16T13:00:00Z",100,85,0.01,1,25.4,"Cloudy",299,0.9,"San Jose National High School",14.7288251,121.1347038
+"759","2025-07-16T14:00:00Z",100,82,0,1,25.8,"Cloudy",337,0.7,"San Jose National High School",14.7288251,121.1347038
+"760","2025-07-16T15:00:00Z",100,82,0.06,1,25.8,"Cloudy",30,0.4,"San Jose National High School",14.7288251,121.1347038
+"761","2025-07-16T16:00:00Z",100,83,0.02,1,25.8,"Cloudy",24,1.1,"San Jose National High School",14.7288251,121.1347038
+"762","2025-07-16T17:00:00Z",100,82,0,0,25.8,"Cloudy",29,0.6,"San Jose National High School",14.7288251,121.1347038
+"763","2025-07-16T18:00:00Z",100,83,0,0,25.8,"Cloudy",8,0.2,"San Jose National High School",14.7288251,121.1347038
+"764","2025-07-16T19:00:00Z",100,83,0,0,25.8,"Cloudy",5,0.4,"San Jose National High School",14.7288251,121.1347038
+"765","2025-07-16T20:00:00Z",100,83,0,0,25.8,"Cloudy",358,0.4,"San Jose National High School",14.7288251,121.1347038
+"766","2025-07-16T21:00:00Z",100,84,0,0,25.6,"Cloudy",13,0.8,"San Jose National High School",14.7288251,121.1347038
+"767","2025-07-16T22:00:00Z",100,84,0.01,0,25.6,"Cloudy",357,0.7,"San Jose National High School",14.7288251,121.1347038
+"768","2025-07-16T23:00:00Z",100,83,0.02,1,26.3,"Cloudy",348,0.6,"San Jose National High School",14.7288251,121.1347038
+"769","2025-07-16T00:00:00Z",100,80,0,1,28.5,"Cloudy",330,1.8,"San Jose Litex Senior High School",14.7355085,121.1299187
+"770","2025-07-16T01:00:00Z",100,73,0.01,1,29.7,"Cloudy",315,2.4,"San Jose Litex Senior High School",14.7355085,121.1299187
+"771","2025-07-16T02:00:00Z",100,65,0,1,30.5,"Cloudy",263,2.9,"San Jose Litex Senior High School",14.7355085,121.1299187
+"772","2025-07-16T03:00:00Z",100,62,0,1,31.3,"Cloudy",281,2.6,"San Jose Litex Senior High School",14.7355085,121.1299187
+"773","2025-07-16T04:00:00Z",100,54,0,1,32.6,"Cloudy",278,2.7,"San Jose Litex Senior High School",14.7355085,121.1299187
+"774","2025-07-16T05:00:00Z",100,57,0,1,32.7,"Cloudy",263,3.6,"San Jose Litex Senior High School",14.7355085,121.1299187
+"775","2025-07-16T06:00:00Z",50,68,0,1,31.1,"Partly Cloudy",267,3.8,"San Jose Litex Senior High School",14.7355085,121.1299187
+"776","2025-07-16T07:00:00Z",100,61,0,1,30.9,"Cloudy",275,3.7,"San Jose Litex Senior High School",14.7355085,121.1299187
+"777","2025-07-16T08:00:00Z",100,62,0,1,30.7,"Cloudy",251,2.9,"San Jose Litex Senior High School",14.7355085,121.1299187
+"778","2025-07-16T09:00:00Z",100,66,0.01,1,30.1,"Cloudy",263,2.3,"San Jose Litex Senior High School",14.7355085,121.1299187
+"779","2025-07-16T10:00:00Z",100,82,0.73,1,27.5,"Light Rain",76,2.2,"San Jose Litex Senior High School",14.7355085,121.1299187
+"780","2025-07-16T11:00:00Z",100,84,0.01,1,26.1,"Cloudy",2,4.4,"San Jose Litex Senior High School",14.7355085,121.1299187
+"781","2025-07-16T12:00:00Z",100,81,0.39,1,25.9,"Drizzle",10,3.8,"San Jose Litex Senior High School",14.7355085,121.1299187
+"782","2025-07-16T13:00:00Z",100,85,0.01,1,25.4,"Cloudy",299,0.9,"San Jose Litex Senior High School",14.7355085,121.1299187
+"783","2025-07-16T14:00:00Z",100,82,0,1,25.8,"Cloudy",337,0.7,"San Jose Litex Senior High School",14.7355085,121.1299187
+"784","2025-07-16T15:00:00Z",100,82,0.06,1,25.8,"Cloudy",30,0.4,"San Jose Litex Senior High School",14.7355085,121.1299187
+"785","2025-07-16T16:00:00Z",100,83,0.02,1,25.8,"Cloudy",24,1.1,"San Jose Litex Senior High School",14.7355085,121.1299187
+"786","2025-07-16T17:00:00Z",100,82,0,0,25.8,"Cloudy",29,0.6,"San Jose Litex Senior High School",14.7355085,121.1299187
+"787","2025-07-16T18:00:00Z",100,83,0,0,25.8,"Cloudy",8,0.2,"San Jose Litex Senior High School",14.7355085,121.1299187
+"788","2025-07-16T19:00:00Z",100,83,0,0,25.8,"Cloudy",5,0.4,"San Jose Litex Senior High School",14.7355085,121.1299187
+"789","2025-07-16T20:00:00Z",100,83,0,0,25.8,"Cloudy",358,0.4,"San Jose Litex Senior High School",14.7355085,121.1299187
+"790","2025-07-16T21:00:00Z",100,84,0,0,25.6,"Cloudy",13,0.8,"San Jose Litex Senior High School",14.7355085,121.1299187
+"791","2025-07-16T22:00:00Z",100,84,0.01,0,25.6,"Cloudy",357,0.7,"San Jose Litex Senior High School",14.7355085,121.1299187
+"792","2025-07-16T23:00:00Z",100,83,0.02,1,26.3,"Cloudy",348,0.6,"San Jose Litex Senior High School",14.7355085,121.1299187
+"793","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",326,2.1,"Southville 8‑C National High School",14.7563668,121.1448007
+"794","2025-07-16T01:00:00Z",100,81,0.01,1,28.8,"Cloudy",316,2.8,"Southville 8‑C National High School",14.7563668,121.1448007
+"795","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",280,2.4,"Southville 8‑C National High School",14.7563668,121.1448007
+"796","2025-07-16T03:00:00Z",100,74,0,1,30,"Cloudy",278,1.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"797","2025-07-16T04:00:00Z",100,62,0,1,31.7,"Cloudy",280,2.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"798","2025-07-16T05:00:00Z",100,65,0,1,31.7,"Cloudy",272,3.8,"Southville 8‑C National High School",14.7563668,121.1448007
+"799","2025-07-16T06:00:00Z",70,75,0,1,30.4,"Mostly Cloudy",265,4.4,"Southville 8‑C National High School",14.7563668,121.1448007
+"800","2025-07-16T07:00:00Z",100,73,0,1,29.2,"Cloudy",272,3.9,"Southville 8‑C National High School",14.7563668,121.1448007
+"801","2025-07-16T08:00:00Z",100,71,0,1,29.3,"Cloudy",254,2.7,"Southville 8‑C National High School",14.7563668,121.1448007
+"802","2025-07-16T09:00:00Z",100,79,0.01,1,28.3,"Cloudy",287,0.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"803","2025-07-16T10:00:00Z",100,95,1.08,1,25.5,"Light Rain",81,2.9,"Southville 8‑C National High School",14.7563668,121.1448007
+"804","2025-07-16T11:00:00Z",100,94,0.01,1,24.5,"Cloudy",1,4.8,"Southville 8‑C National High School",14.7563668,121.1448007
+"805","2025-07-16T12:00:00Z",100,91,1.13,1,24.3,"Light Rain",6,4.3,"Southville 8‑C National High School",14.7563668,121.1448007
+"806","2025-07-16T13:00:00Z",100,91,0,1,24.6,"Cloudy",25,0.2,"Southville 8‑C National High School",14.7563668,121.1448007
+"807","2025-07-16T14:00:00Z",100,89,0,1,24.6,"Cloudy",334,0.5,"Southville 8‑C National High School",14.7563668,121.1448007
+"808","2025-07-16T15:00:00Z",100,92,0.06,1,24.5,"Cloudy",80,0.7,"Southville 8‑C National High School",14.7563668,121.1448007
+"809","2025-07-16T16:00:00Z",100,94,0.02,1,24.2,"Cloudy",49,1.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"810","2025-07-16T17:00:00Z",100,93,0,0,24.3,"Cloudy",46,1.1,"Southville 8‑C National High School",14.7563668,121.1448007
+"811","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",61,0.8,"Southville 8‑C National High School",14.7563668,121.1448007
+"812","2025-07-16T19:00:00Z",100,89,0,0,24.8,"Cloudy",41,0.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"813","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",30,0.6,"Southville 8‑C National High School",14.7563668,121.1448007
+"814","2025-07-16T21:00:00Z",100,91,0,0,24.4,"Cloudy",28,1.1,"Southville 8‑C National High School",14.7563668,121.1448007
+"815","2025-07-16T22:00:00Z",100,91,0.01,0,24.6,"Cloudy",1,0.8,"Southville 8‑C National High School",14.7563668,121.1448007
+"816","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",338,0.3,"Southville 8‑C National High School",14.7563668,121.1448007
+"817","2025-07-16T00:00:00Z",100,85,0,1,28.1,"Cloudy",325,2.1,"Tagumpay National High School",14.7453813,121.1312574
+"818","2025-07-16T01:00:00Z",100,81,0,1,28.9,"Cloudy",316,2.6,"Tagumpay National High School",14.7453813,121.1312574
+"819","2025-07-16T02:00:00Z",100,76,0,1,29.3,"Cloudy",272,2.4,"Tagumpay National High School",14.7453813,121.1312574
+"820","2025-07-16T03:00:00Z",100,72,0,1,30.3,"Cloudy",275,2.4,"Tagumpay National High School",14.7453813,121.1312574
+"821","2025-07-16T04:00:00Z",100,62,0,1,31.8,"Cloudy",277,2.8,"Tagumpay National High School",14.7453813,121.1312574
+"822","2025-07-16T05:00:00Z",100,64,0,1,31.9,"Cloudy",266,3.7,"Tagumpay National High School",14.7453813,121.1312574
+"823","2025-07-16T06:00:00Z",53,75,0,1,30.4,"Partly Cloudy",265,4.1,"Tagumpay National High School",14.7453813,121.1312574
+"824","2025-07-16T07:00:00Z",100,70,0,1,29.6,"Cloudy",270,3.7,"Tagumpay National High School",14.7453813,121.1312574
+"825","2025-07-16T08:00:00Z",100,70,0,1,29.6,"Cloudy",250,3.2,"Tagumpay National High School",14.7453813,121.1312574
+"826","2025-07-16T09:00:00Z",100,76,0,1,28.8,"Cloudy",276,1.9,"Tagumpay National High School",14.7453813,121.1312574
+"827","2025-07-16T10:00:00Z",100,93,0.48,1,25.9,"Drizzle",68,2.2,"Tagumpay National High School",14.7453813,121.1312574
+"828","2025-07-16T11:00:00Z",100,93,0,1,24.3,"Cloudy",1,5.3,"Tagumpay National High School",14.7453813,121.1312574
+"829","2025-07-16T12:00:00Z",100,92,1.16,1,24.3,"Light Rain",6,4.8,"Tagumpay National High School",14.7453813,121.1312574
+"830","2025-07-16T13:00:00Z",100,94,0,1,24.1,"Cloudy",320,1.3,"Tagumpay National High School",14.7453813,121.1312574
+"831","2025-07-16T14:00:00Z",100,94,0,1,24.2,"Cloudy",329,1.1,"Tagumpay National High School",14.7453813,121.1312574
+"832","2025-07-16T15:00:00Z",100,94,0.04,1,24.3,"Cloudy",6,0.9,"Tagumpay National High School",14.7453813,121.1312574
+"833","2025-07-16T16:00:00Z",100,94,0.02,1,24.3,"Cloudy",21,1.6,"Tagumpay National High School",14.7453813,121.1312574
+"834","2025-07-16T17:00:00Z",100,94,0,0,24.2,"Cloudy",9,1.3,"Tagumpay National High School",14.7453813,121.1312574
+"835","2025-07-16T18:00:00Z",100,89,0,0,24.7,"Cloudy",1,0.8,"Tagumpay National High School",14.7453813,121.1312574
+"836","2025-07-16T19:00:00Z",100,91,0,0,24.6,"Cloudy",354,0.9,"Tagumpay National High School",14.7453813,121.1312574
+"837","2025-07-16T20:00:00Z",100,89,0,0,24.8,"Cloudy",353,0.8,"Tagumpay National High School",14.7453813,121.1312574
+"838","2025-07-16T21:00:00Z",100,94,0,0,24.1,"Cloudy",7,1.3,"Tagumpay National High School",14.7453813,121.1312574
+"839","2025-07-16T22:00:00Z",100,93,0.01,0,24.5,"Cloudy",344,1.2,"Tagumpay National High School",14.7453813,121.1312574
+"840","2025-07-16T23:00:00Z",100,90,0.02,1,25.8,"Cloudy",336,0.6,"Tagumpay National High School",14.7453813,121.1312574
+"841","2025-07-16T00:00:00Z",100,90,0,1,26.8,"Cloudy",319,2.6,"Wawa National High School",14.7308221,121.1851935
+"842","2025-07-16T01:00:00Z",100,88,0.01,1,27.4,"Cloudy",314,3.4,"Wawa National High School",14.7308221,121.1851935
+"843","2025-07-16T02:00:00Z",100,82,0,1,28.1,"Cloudy",288,3.4,"Wawa National High School",14.7308221,121.1851935
+"844","2025-07-16T03:00:00Z",100,90,0,1,27.6,"Cloudy",1,1.4,"Wawa National High School",14.7308221,121.1851935
+"845","2025-07-16T04:00:00Z",100,70,0,1,29.9,"Cloudy",297,2.6,"Wawa National High School",14.7308221,121.1851935
+"846","2025-07-16T05:00:00Z",100,69,0,1,30.6,"Cloudy",284,4.1,"Wawa National High School",14.7308221,121.1851935
+"847","2025-07-16T06:00:00Z",80,79,0,1,29.3,"Cloudy",272,4.9,"Wawa National High School",14.7308221,121.1851935
+"848","2025-07-16T07:00:00Z",100,80,0,1,27.9,"Cloudy",282,4,"Wawa National High School",14.7308221,121.1851935
+"849","2025-07-16T08:00:00Z",100,82,0,1,27.4,"Cloudy",307,2.1,"Wawa National High School",14.7308221,121.1851935
+"850","2025-07-16T09:00:00Z",100,93,0.09,1,25.9,"Cloudy",91,0.7,"Wawa National High School",14.7308221,121.1851935
+"851","2025-07-16T10:00:00Z",100,100,4.39,1,24.4,"Rain",70,2.2,"Wawa National High School",14.7308221,121.1851935
+"852","2025-07-16T11:00:00Z",100,98,0.19,1,24.4,"Cloudy",347,3.4,"Wawa National High School",14.7308221,121.1851935
+"853","2025-07-16T12:00:00Z",100,95,0.37,1,23.5,"Drizzle",340,1.9,"Wawa National High School",14.7308221,121.1851935
+"854","2025-07-16T13:00:00Z",100,96,0,1,23.4,"Cloudy",42,0.6,"Wawa National High School",14.7308221,121.1851935
+"855","2025-07-16T14:00:00Z",100,92,0,1,23.4,"Cloudy",355,0.8,"Wawa National High School",14.7308221,121.1851935
+"856","2025-07-16T15:00:00Z",100,93,0.16,1,23.4,"Cloudy",78,0.4,"Wawa National High School",14.7308221,121.1851935
+"857","2025-07-16T16:00:00Z",100,97,0.02,1,22.9,"Cloudy",53,1.6,"Wawa National High School",14.7308221,121.1851935
+"858","2025-07-16T17:00:00Z",100,94,0,0,23.3,"Cloudy",57,1.1,"Wawa National High School",14.7308221,121.1851935
+"859","2025-07-16T18:00:00Z",100,93,0,0,23.4,"Cloudy",75,0.8,"Wawa National High School",14.7308221,121.1851935
+"860","2025-07-16T19:00:00Z",100,93,0,0,23.5,"Cloudy",91,0.6,"Wawa National High School",14.7308221,121.1851935
+"861","2025-07-16T20:00:00Z",100,93,0,0,23.5,"Cloudy",71,0.4,"Wawa National High School",14.7308221,121.1851935
+"862","2025-07-16T21:00:00Z",100,93,0,0,23.4,"Cloudy",38,1,"Wawa National High School",14.7308221,121.1851935
+"863","2025-07-16T22:00:00Z",100,96,0.01,0,23.6,"Cloudy",351,0.6,"Wawa National High School",14.7308221,121.1851935
+"864","2025-07-16T23:00:00Z",100,95,0.02,1,24.6,"Cloudy",323,0.9,"Wawa National High School",14.7308221,121.1851935

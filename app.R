@@ -21,7 +21,7 @@ all_forecasts$time <- format_hour_ampm(all_forecasts$time)
 
 # UI
 ui <- fluidPage(
-  titlePanel("Hourly Weather Forecast per School (4AM–10PM)"),
+  titlePanel("Hourly Weather Forecast per School July 15, 2025"),
   
   sidebarLayout(
     sidebarPanel(
